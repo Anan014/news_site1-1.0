@@ -1,0 +1,2712 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Business",
+    "last_updated": "2021-10-12T17:55:29-04:00",
+    "num_results": 33,
+    "results": [{
+            "section": "business",
+            "subsection": "economy",
+            "title": "World’s Growth Cools and the Rich-Poor Divide Widens",
+            "abstract": "The International Monetary Fund says the persistence of the coronavirus and global supply chain crisis weighs on economies.",
+            "url": "https://www.nytimes.com/2021/10/12/business/economy/imf-world-economic-outlook.html",
+            "uri": "nyt://article/2e604a68-ec4b-52c5-b30c-bd56af9cd17e",
+            "byline": "By Patricia Cohen and Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T23:38:08-04:00",
+            "created_date": "2021-10-12T17:54:42-04:00",
+            "published_date": "2021-10-12T17:54:42-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Income Inequality",
+                "United States Economy",
+                "Shortages",
+                "International Trade and World Market",
+                "Shutdowns (Institutional)",
+                "Prices (Fares, Fees and Rates)",
+                "Factories and Manufacturing",
+                "Oil (Petroleum) and Gasoline",
+                "Inflation (Economics)"
+            ],
+            "org_facet": [
+                "International Monetary Fund",
+                "World Bank"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12global-econ-1/merlin_194844384_9de65ff6-a00c-44ac-a0d2-b1d577de04bd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1368,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A merchant hauling goods in Manila last month. Companies in the Philippines lost an average 40 percent or more of their typical monthly sales.",
+                    "copyright": "Jes Aznar/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12global-econ-1/12global-econ-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A merchant hauling goods in Manila last month. Companies in the Philippines lost an average 40 percent or more of their typical monthly sales.",
+                    "copyright": "Jes Aznar/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12global-econ-1/12global-econ-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A merchant hauling goods in Manila last month. Companies in the Philippines lost an average 40 percent or more of their typical monthly sales.",
+                    "copyright": "Jes Aznar/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12global-econ-1/merlin_194844384_9de65ff6-a00c-44ac-a0d2-b1d577de04bd-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A merchant hauling goods in Manila last month. Companies in the Philippines lost an average 40 percent or more of their typical monthly sales.",
+                    "copyright": "Jes Aznar/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12global-econ-1/merlin_194844384_9de65ff6-a00c-44ac-a0d2-b1d577de04bd-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A merchant hauling goods in Manila last month. Companies in the Philippines lost an average 40 percent or more of their typical monthly sales.",
+                    "copyright": "Jes Aznar/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2X6ItxH"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "As Bike Thefts Jump, Delivery Workers Band Together for Safety",
+            "abstract": "Robbers are targeting food delivery workers in New York City, so many are forming watch groups to protect one another.",
+            "url": "https://www.nytimes.com/2021/10/12/business/delivery-workers-thefts-neighborhood-watch.html",
+            "uri": "nyt://article/dfb5a0fd-3419-5b08-bdfb-bdc7ae951e4d",
+            "byline": "By Coral Murphy Marcos",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T14:29:42-04:00",
+            "created_date": "2021-10-12T05:00:20-04:00",
+            "published_date": "2021-10-12T05:00:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Delivery Services",
+                "Labor and Jobs",
+                "Bicycles and Bicycling",
+                "Robberies and Thefts",
+                "Assaults",
+                "Restaurants",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [
+                "City Council (NYC)",
+                "Police Department (NYC)"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/09/30/business/00DeliveryWorkers-01/merlin_195296928_baf5f564-af3d-4f8c-a4a9-c730b7bd1503-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A watchdog group of delivery workers meeting at the Queensboro Bridge in Manhattan.",
+                    "copyright": "Victor Llorente for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/business/00DeliveryWorkers-01/merlin_195296928_baf5f564-af3d-4f8c-a4a9-c730b7bd1503-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A watchdog group of delivery workers meeting at the Queensboro Bridge in Manhattan.",
+                    "copyright": "Victor Llorente for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/business/00DeliveryWorkers-01/merlin_195296928_baf5f564-af3d-4f8c-a4a9-c730b7bd1503-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A watchdog group of delivery workers meeting at the Queensboro Bridge in Manhattan.",
+                    "copyright": "Victor Llorente for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/business/00DeliveryWorkers-01/merlin_195296928_baf5f564-af3d-4f8c-a4a9-c730b7bd1503-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A watchdog group of delivery workers meeting at the Queensboro Bridge in Manhattan.",
+                    "copyright": "Victor Llorente for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/business/00DeliveryWorkers-01/merlin_195296928_baf5f564-af3d-4f8c-a4a9-c730b7bd1503-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A watchdog group of delivery workers meeting at the Queensboro Bridge in Manhattan.",
+                    "copyright": "Victor Llorente for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mFg7U2"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "In China, Home Buyers Who Went All In Say They Want Out",
+            "abstract": "China Evergrande Group’s financial troubles, and the government policies that helped push it to the brink of collapse, have threatened an important economic driver: home sales.",
+            "url": "https://www.nytimes.com/2021/10/12/business/evergrande-homebuyers-debt-china.html",
+            "uri": "nyt://article/4d8b4fa9-2a76-52d0-ab43-e30c60a1d3dd",
+            "byline": "By Alexandra Stevenson and Joy Dong",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:11:17-04:00",
+            "created_date": "2021-10-12T05:00:14-04:00",
+            "published_date": "2021-10-12T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Banking and Financial Institutions",
+                "Building (Construction)",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "China Evergrande Group"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "China",
+                "Beijing (China)"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12china-evergrande-print/merlin_195476694_74efefa5-379b-4144-9a6f-d8239887bdb2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People once lured by China Evergrande Group’s slick sales offices and impressive marketing are staying away.",
+                    "copyright": "Gilles Sabri&eacute; for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12china-evergrande-print/12china-evergrande-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People once lured by China Evergrande Group’s slick sales offices and impressive marketing are staying away.",
+                    "copyright": "Gilles Sabri&eacute; for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12china-evergrande-print/12china-evergrande-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People once lured by China Evergrande Group’s slick sales offices and impressive marketing are staying away.",
+                    "copyright": "Gilles Sabri&eacute; for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12china-evergrande-print/merlin_195476694_74efefa5-379b-4144-9a6f-d8239887bdb2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People once lured by China Evergrande Group’s slick sales offices and impressive marketing are staying away.",
+                    "copyright": "Gilles Sabri&eacute; for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12china-evergrande-print/merlin_195476694_74efefa5-379b-4144-9a6f-d8239887bdb2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People once lured by China Evergrande Group’s slick sales offices and impressive marketing are staying away.",
+                    "copyright": "Gilles Sabri&eacute; for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "As Big Tech Grows in the Pandemic, Seattle Grows With It",
+            "abstract": "Despite an overall decline in office leasing in the United States, technology companies gobbled up more space in the Seattle area than they had the previous year.",
+            "url": "https://www.nytimes.com/2021/10/12/business/seattle-real-estate-coronavirus.html",
+            "uri": "nyt://article/6fcdf35a-139b-56a6-aced-f8606dfd8b7c",
+            "byline": "By Julie Weed",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:15:12-04:00",
+            "created_date": "2021-10-12T06:00:10-04:00",
+            "published_date": "2021-10-12T06:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "Square Feet",
+            "des_facet": [
+                "Real Estate (Commercial)",
+                "Relocation of Business",
+                "Quarantine (Life and Culture)",
+                "Renting and Leasing (Real Estate)",
+                "Real Estate and Housing (Residential)",
+                "Coronavirus (2019-nCoV)",
+                "Computers and the Internet",
+                "Labor and Jobs"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "Seattle (Wash)",
+                "Redmond (Wash)",
+                "Kirkland (Wash)",
+                "Bellevue (Wash)"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/merlin_195453216_61e5be47-4a75-47d6-bc00-722744300ed9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/12seattle-tech-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/12seattle-tech-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/merlin_195453216_61e5be47-4a75-47d6-bc00-722744300ed9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/merlin_195453216_61e5be47-4a75-47d6-bc00-722744300ed9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 143,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mJEQGM"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Racial Bias Skewed Small-Business Relief Lending, Study Says",
+            "abstract": "Black business owners were more likely to get Paycheck Protection Program loans from online lenders than from banks, according to new research.",
+            "url": "https://www.nytimes.com/2021/10/11/business/ppp-loans-covid-racial-bias.html",
+            "uri": "nyt://article/e4a52439-6927-5a8b-99b9-6f295b8d4982",
+            "byline": "By Stacy Cowley",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T10:23:07-04:00",
+            "created_date": "2021-10-11T15:42:09-04:00",
+            "published_date": "2021-10-11T15:42:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Banking and Financial Institutions",
+                "Discrimination",
+                "Race and Ethnicity",
+                "Research",
+                "Small Business",
+                "Minorities",
+                "Stimulus (Economic)",
+                "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+                "United States Economy",
+                "Black People"
+            ],
+            "org_facet": [
+                "Cross River Bank",
+                "Independent Community Bankers of America"
+            ],
+            "per_facet": [
+                "Howell, Sabrina T"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/11JPppp-bias-print/11ppp-bias-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At major financial institutions like Bank of America, Black-owned businesses appeared to be just as likely as any other to get a loan, after researchers adjusted for variables like the applicant’s loan size.",
+                    "copyright": "John Taggart for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/11JPppp-bias-print/11ppp-bias-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At major financial institutions like Bank of America, Black-owned businesses appeared to be just as likely as any other to get a loan, after researchers adjusted for variables like the applicant’s loan size.",
+                    "copyright": "John Taggart for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/11JPppp-bias-print/11ppp-bias-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At major financial institutions like Bank of America, Black-owned businesses appeared to be just as likely as any other to get a loan, after researchers adjusted for variables like the applicant’s loan size.",
+                    "copyright": "John Taggart for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/11JPppp-bias-print/11ppp-bias-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At major financial institutions like Bank of America, Black-owned businesses appeared to be just as likely as any other to get a loan, after researchers adjusted for variables like the applicant’s loan size.",
+                    "copyright": "John Taggart for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/11JPppp-bias-print/11ppp-bias-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At major financial institutions like Bank of America, Black-owned businesses appeared to be just as likely as any other to get a loan, after researchers adjusted for variables like the applicant’s loan size.",
+                    "copyright": "John Taggart for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lrz9xL"
+        },
+        {
+            "section": "your-money",
+            "subsection": "",
+            "title": "Seeding Accounts for Kindergartners and Hoping to Grow College Graduates",
+            "abstract": "New York City is giving every public school kindergartner $100 in a college savings account. Here’s why every penny matters.",
+            "url": "https://www.nytimes.com/2021/10/11/your-money/529-savings-plans-baby-bonds.html",
+            "uri": "nyt://article/baeaa459-aa2e-5fd3-87d8-7d328c8631d6",
+            "byline": "By Tara Siegel Bernard",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:10:21-04:00",
+            "created_date": "2021-10-11T11:59:21-04:00",
+            "published_date": "2021-10-11T11:59:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "529 Savings Plans",
+                "Colleges and Universities",
+                "Education (K-12)",
+                "Child Savings Accounts",
+                "Income Inequality",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "NYC Kids RISE (Nonprofit)"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/00collegesavings-print/00collegesavings-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaniqua Hudson-Figueroa and her daughter, Mia Issabela, outside Public School 151 in Queens. The city’s $100 deposit in a college savings account could pay big dividends for the child.",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/00collegesavings-print/00collegesavings-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaniqua Hudson-Figueroa and her daughter, Mia Issabela, outside Public School 151 in Queens. The city’s $100 deposit in a college savings account could pay big dividends for the child.",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/00collegesavings-print/00collegesavings-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaniqua Hudson-Figueroa and her daughter, Mia Issabela, outside Public School 151 in Queens. The city’s $100 deposit in a college savings account could pay big dividends for the child.",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/00collegesavings-print/00collegesavings-01-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaniqua Hudson-Figueroa and her daughter, Mia Issabela, outside Public School 151 in Queens. The city’s $100 deposit in a college savings account could pay big dividends for the child.",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/00collegesavings-print/00collegesavings-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaniqua Hudson-Figueroa and her daughter, Mia Issabela, outside Public School 151 in Queens. The city’s $100 deposit in a college savings account could pay big dividends for the child.",
+                    "copyright": "Jeenah Moon for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mHkPR5"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Inside the Courtroom With Theranos’s Elizabeth Holmes",
+            "abstract": "Behind the closed doors are whispers, gestures and a daily rhythm, plus two court artists, numbered tickets and some true-crime fans.",
+            "url": "https://www.nytimes.com/2021/10/11/technology/elizabeth-holmes-theranos-courtroom.html",
+            "uri": "nyt://article/fbc9c1ce-15c8-5944-bd39-bc6f251d52ec",
+            "byline": "By Erin Woo and Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T11:07:20-04:00",
+            "created_date": "2021-10-11T05:00:17-04:00",
+            "published_date": "2021-10-11T05:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Jury System",
+                "Tests (Medical)",
+                "Computers and the Internet",
+                "Entrepreneurship",
+                "Frauds and Swindling"
+            ],
+            "org_facet": [
+                "Theranos Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1373,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ApEGt7"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Clear Differences Remain Between France and U.S., French Minister Says",
+            "abstract": "Finance Minister Bruno Le Maire said the two countries remained at odds over China and various security issues, despite effective cooperation on overhauling the international tax system.",
+            "url": "https://www.nytimes.com/2021/10/11/world/europe/france-us-differences-bruno-le-maire.html",
+            "uri": "nyt://article/ef09d004-8c10-5b10-873f-73ae2e3a13f1",
+            "byline": "By Liz Alderman and Roger Cohen",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T11:10:28-04:00",
+            "created_date": "2021-10-11T15:37:03-04:00",
+            "published_date": "2021-10-11T15:37:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "International Trade and World Market",
+                "Politics and Government",
+                "United States International Relations",
+                "Customs (Tariff)"
+            ],
+            "org_facet": [
+                "International Monetary Fund"
+            ],
+            "per_facet": [
+                "Le Maire, Bruno",
+                "Macron, Emmanuel (1977- )",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/11/world/00FRANCE1/00FRANCE1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruno Le Maire, France’s economy and finance minister, in Paris last month.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/world/00FRANCE1/00FRANCE1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruno Le Maire, France’s economy and finance minister, in Paris last month.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/world/00FRANCE1/00FRANCE1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruno Le Maire, France’s economy and finance minister, in Paris last month.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/world/00FRANCE1/00FRANCE1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruno Le Maire, France’s economy and finance minister, in Paris last month.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/world/00FRANCE1/00FRANCE1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruno Le Maire, France’s economy and finance minister, in Paris last month.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lydfJj"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "‘It’s Not Sustainable’: What America’s Port Crisis Looks Like Up Close",
+            "abstract": "An enduring traffic jam at the Port of Savannah reveals why the chaos in global shipping is likely to persist.",
+            "url": "https://www.nytimes.com/2021/10/11/business/supply-chain-crisis-savannah-port.html",
+            "uri": "nyt://article/7e1a54e8-793c-5ae1-898f-1ef030853035",
+            "byline": "By Peter S. Goodman and Erin Schaff",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T10:57:30-04:00",
+            "created_date": "2021-10-10T11:35:52-04:00",
+            "published_date": "2021-10-10T11:35:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Freight (Cargo)",
+                "Ships and Shipping",
+                "Ports",
+                "International Trade and World Market",
+                "Shortages",
+                "Factories and Manufacturing",
+                "Trucks and Trucking"
+            ],
+            "org_facet": [
+                "Georgia Ports Authority"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/00savannah-port-4/merlin_195695649_45d0b7aa-4caa-45d9-9d46-72f86ae2e483-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Port of Savannah in Georgia is the third-largest container port in the United States.",
+                    "copyright": " "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/00savannah-port-4/00savannah-port-4-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Port of Savannah in Georgia is the third-largest container port in the United States.",
+                    "copyright": " "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/00savannah-port-4/00savannah-port-4-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Port of Savannah in Georgia is the third-largest container port in the United States.",
+                    "copyright": " "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/00savannah-port-4/merlin_195695649_45d0b7aa-4caa-45d9-9d46-72f86ae2e483-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Port of Savannah in Georgia is the third-largest container port in the United States.",
+                    "copyright": " "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/00savannah-port-4/merlin_195695649_45d0b7aa-4caa-45d9-9d46-72f86ae2e483-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Port of Savannah in Georgia is the third-largest container port in the United States.",
+                    "copyright": " "
+                }
+            ],
+            "short_url": "https://nyti.ms/3mH7KY5"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Biden, Battling Supply Chain Woes, to Announce Port Will Operate 24/7",
+            "abstract": "The expansion of the Port of Los Angeles’s hours comes as the administration has struggled to untangle kinks in global supply chains and curb the resulting inflation.",
+            "url": "https://www.nytimes.com/2021/10/13/us/politics/biden-port-los-angeles-supply-chain.html",
+            "uri": "nyt://article/541b1f43-28af-5d77-a3ac-9eb2ba5e46cd",
+            "byline": "By Ana Swanson, Jeanna Smialek and Jim Tankersley",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T05:00:24-04:00",
+            "created_date": "2021-10-13T05:00:24-04:00",
+            "published_date": "2021-10-13T05:00:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shortages",
+                "United States Economy",
+                "Ports",
+                "International Trade and World Market",
+                "Inflation (Economics)",
+                "Prices (Fares, Fees and Rates)",
+                "United States Politics and Government",
+                "Ships and Shipping",
+                "Coronavirus (2019-nCoV)",
+                "Speeches and Statements",
+                "Factories and Manufacturing"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Port of Los Angeles (Calif)"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/us/politics/13dc-Biden-supply-1/merlin_195695400_641b63d9-5054-4df5-bf82-57ccab805aa1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shipping containers in Garden City, Ga., in September. Product shortages appear poised to worsen, enduring into late next year or beyond and disrupting shipments of necessities like medications, as well as holiday purchases.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/us/politics/13dc-Biden-supply-1/merlin_195695400_641b63d9-5054-4df5-bf82-57ccab805aa1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shipping containers in Garden City, Ga., in September. Product shortages appear poised to worsen, enduring into late next year or beyond and disrupting shipments of necessities like medications, as well as holiday purchases.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/us/politics/13dc-Biden-supply-1/merlin_195695400_641b63d9-5054-4df5-bf82-57ccab805aa1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shipping containers in Garden City, Ga., in September. Product shortages appear poised to worsen, enduring into late next year or beyond and disrupting shipments of necessities like medications, as well as holiday purchases.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/us/politics/13dc-Biden-supply-1/merlin_195695400_641b63d9-5054-4df5-bf82-57ccab805aa1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shipping containers in Garden City, Ga., in September. Product shortages appear poised to worsen, enduring into late next year or beyond and disrupting shipments of necessities like medications, as well as holiday purchases.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/us/politics/13dc-Biden-supply-1/merlin_195695400_641b63d9-5054-4df5-bf82-57ccab805aa1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shipping containers in Garden City, Ga., in September. Product shortages appear poised to worsen, enduring into late next year or beyond and disrupting shipments of necessities like medications, as well as holiday purchases.",
+                    "copyright": "Erin Schaff/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DB6lZR"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "A Stock Market Malaise With the Shadow of ’70s-Style Stagflation",
+            "abstract": "After coasting higher over the summer, markets are jittery over rising prices, growth snarls and a number of other threats.",
+            "url": "https://www.nytimes.com/2021/10/13/business/stocks-inflation-stagflation.html",
+            "uri": "nyt://article/22257037-2ba9-5a42-b247-72f631896996",
+            "byline": "By Matt Phillips",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T05:00:21-04:00",
+            "created_date": "2021-10-13T05:00:21-04:00",
+            "published_date": "2021-10-13T05:00:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "Inflation (Economics)",
+                "Prices (Fares, Fees and Rates)",
+                "International Trade and World Market",
+                "Stocks and Bonds",
+                "Company Reports",
+                "Nineteen Hundred Seventies"
+            ],
+            "org_facet": [
+                "Federal Reserve System"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/11/business/00Stocks-01/00Stocks-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As costs for things like lumber, microchips and steel climbed this spring, officials from the Federal Reserve took pains to say the rise would prove “transitory.”",
+                    "copyright": "Taylor Glascock for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/business/00Stocks-01/00Stocks-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As costs for things like lumber, microchips and steel climbed this spring, officials from the Federal Reserve took pains to say the rise would prove “transitory.”",
+                    "copyright": "Taylor Glascock for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/business/00Stocks-01/00Stocks-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As costs for things like lumber, microchips and steel climbed this spring, officials from the Federal Reserve took pains to say the rise would prove “transitory.”",
+                    "copyright": "Taylor Glascock for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/business/00Stocks-01/00Stocks-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As costs for things like lumber, microchips and steel climbed this spring, officials from the Federal Reserve took pains to say the rise would prove “transitory.”",
+                    "copyright": "Taylor Glascock for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/business/00Stocks-01/00Stocks-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As costs for things like lumber, microchips and steel climbed this spring, officials from the Federal Reserve took pains to say the rise would prove “transitory.”",
+                    "copyright": "Taylor Glascock for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oXohtz"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "China’s Power Problems Expose a Strategic Weakness",
+            "abstract": "The country’s energy inefficiency and dependence on climate-damaging coal threaten to damage its image as a reliable manufacturing base.",
+            "url": "https://www.nytimes.com/2021/10/13/business/china-electricity-shortage.html",
+            "uri": "nyt://article/9ecd5b01-add2-552b-8ce8-2fcdb72bc076",
+            "byline": "By Keith Bradsher",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T04:38:05-04:00",
+            "created_date": "2021-10-13T04:38:05-04:00",
+            "published_date": "2021-10-13T04:38:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Economic Conditions and Trends",
+                "Solar Energy",
+                "Coal",
+                "Mines and Mining",
+                "Factories and Manufacturing",
+                "Rationing and Allocation of Resources",
+                "Power Failures and Blackouts",
+                "Greenhouse Gas Emissions",
+                "Alternative and Renewable Energy",
+                "Steel and Iron",
+                "Fuel Efficiency",
+                "Shortages",
+                "Energy Efficiency",
+                "Global Warming"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/merlin_133204686_ec654039-68c8-48ac-a9b2-71ecad3e7dbb-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s electricity shortage has prompted a national rush to mine and burn more coal.",
+                    "copyright": "Gilles Sabrié for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/merlin_133204686_ec654039-68c8-48ac-a9b2-71ecad3e7dbb-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s electricity shortage has prompted a national rush to mine and burn more coal.",
+                    "copyright": "Gilles Sabrié for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/merlin_133204686_ec654039-68c8-48ac-a9b2-71ecad3e7dbb-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s electricity shortage has prompted a national rush to mine and burn more coal.",
+                    "copyright": "Gilles Sabrié for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/merlin_133204686_ec654039-68c8-48ac-a9b2-71ecad3e7dbb-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s electricity shortage has prompted a national rush to mine and burn more coal.",
+                    "copyright": "Gilles Sabrié for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00china-power1/merlin_133204686_ec654039-68c8-48ac-a9b2-71ecad3e7dbb-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s electricity shortage has prompted a national rush to mine and burn more coal.",
+                    "copyright": "Gilles Sabrié for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3BGN2hh"
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "Suspension is lifted for Netflix employee who criticized Dave Chappelle’s comedy special.",
+            "abstract": "“At the very least, I feel vindicated,” the employee, Terra Field, wrote on Twitter.",
+            "url": "https://www.nytimes.com/2021/10/12/business/media/dave-chappelle-netflix-transgender-criticism.html",
+            "uri": "nyt://article/2191d709-d457-5863-a726-b35f308ab9b4",
+            "byline": "By The New York Times",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:04:29-04:00",
+            "created_date": "2021-10-12T22:25:55-04:00",
+            "published_date": "2021-10-12T22:25:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Television",
+                "Transgender and Transsexuals"
+            ],
+            "org_facet": [
+                "Gay and Lesbian Alliance Against Defamation",
+                "Netflix Inc"
+            ],
+            "per_facet": [
+                "Chappelle, Dave",
+                "Field, Terra"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/3BClnOH"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Biden Ends Workplace Immigration Raids, Reversing Trump Policy",
+            "abstract": "The change comes during a labor shortage in the United States, offering reassurance that undocumented workers are not at risk of being deported en masse.",
+            "url": "https://www.nytimes.com/2021/10/12/us/politics/biden-workplace-immigration-raids.html",
+            "uri": "nyt://article/974ee726-c2ef-515c-9b71-0160af22c480",
+            "byline": "By Eileen Sullivan",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:33:39-04:00",
+            "created_date": "2021-10-12T19:29:30-04:00",
+            "published_date": "2021-10-12T19:29:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Illegal Immigration",
+                "Immigration and Emigration",
+                "Deportation",
+                "Foreign Workers",
+                "Workplace Hazards and Violations",
+                "Labor and Jobs",
+                "Shortages",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Homeland Security Department"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J",
+                "Mayorkas, Alejandro"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12dc-raids-1/merlin_195257166_5a5ad959-6672-4285-86cc-840bdaab4ba0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alejandro N. Mayorkas, the homeland security secretary, said in a statement that enforcement efforts at work sites would instead focus on “unscrupulous employers who exploit unauthorized workers, conduct illegal activities or impose unsafe working conditions.” ",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12dc-raids-1/12dc-raids-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alejandro N. Mayorkas, the homeland security secretary, said in a statement that enforcement efforts at work sites would instead focus on “unscrupulous employers who exploit unauthorized workers, conduct illegal activities or impose unsafe working conditions.” ",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12dc-raids-1/12dc-raids-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alejandro N. Mayorkas, the homeland security secretary, said in a statement that enforcement efforts at work sites would instead focus on “unscrupulous employers who exploit unauthorized workers, conduct illegal activities or impose unsafe working conditions.” ",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12dc-raids-1/merlin_195257166_5a5ad959-6672-4285-86cc-840bdaab4ba0-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alejandro N. Mayorkas, the homeland security secretary, said in a statement that enforcement efforts at work sites would instead focus on “unscrupulous employers who exploit unauthorized workers, conduct illegal activities or impose unsafe working conditions.” ",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12dc-raids-1/merlin_195257166_5a5ad959-6672-4285-86cc-840bdaab4ba0-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alejandro N. Mayorkas, the homeland security secretary, said in a statement that enforcement efforts at work sites would instead focus on “unscrupulous employers who exploit unauthorized workers, conduct illegal activities or impose unsafe working conditions.” ",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oU5kbp"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "In Review, F.D.A. Stays Neutral on the Need for a Moderna Booster",
+            "abstract": "An advisory panel is to vote later this week on whether to recommend emergency authorization of boosters for the Moderna and Johnson & Johnson vaccines.",
+            "url": "https://www.nytimes.com/2021/10/12/us/politics/fda-review-moderna-booster.html",
+            "uri": "nyt://article/27cda7e3-36f2-5415-b98f-08dd78c9e384",
+            "byline": "By Sharon LaFraniere",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:26:51-04:00",
+            "created_date": "2021-10-12T19:05:22-04:00",
+            "published_date": "2021-10-12T19:05:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Moderna Inc",
+                "Johnson & Johnson",
+                "Food and Drug Administration",
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12DC-BOOSTERS/merlin_195200265_06c7c04f-d9d5-46cf-b36c-bb76c0819499-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The existing data does not seem to indicate that Moderna’s vaccine is becoming less effective against severe disease or hospitalization.",
+                    "copyright": "James Estrin/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12DC-BOOSTERS/merlin_195200265_06c7c04f-d9d5-46cf-b36c-bb76c0819499-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The existing data does not seem to indicate that Moderna’s vaccine is becoming less effective against severe disease or hospitalization.",
+                    "copyright": "James Estrin/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12DC-BOOSTERS/merlin_195200265_06c7c04f-d9d5-46cf-b36c-bb76c0819499-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The existing data does not seem to indicate that Moderna’s vaccine is becoming less effective against severe disease or hospitalization.",
+                    "copyright": "James Estrin/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12DC-BOOSTERS/merlin_195200265_06c7c04f-d9d5-46cf-b36c-bb76c0819499-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The existing data does not seem to indicate that Moderna’s vaccine is becoming less effective against severe disease or hospitalization.",
+                    "copyright": "James Estrin/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/politics/12DC-BOOSTERS/merlin_195200265_06c7c04f-d9d5-46cf-b36c-bb76c0819499-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The existing data does not seem to indicate that Moderna’s vaccine is becoming less effective against severe disease or hospitalization.",
+                    "copyright": "James Estrin/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2X4gJK2"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "F.D.A. Authorizes E-Cigarettes to Stay on U.S. Market for the First Time",
+            "abstract": "The agency approved three Vuse vaping products and said their benefits in helping smokers quit outweighed the risks of hooking youths.",
+            "url": "https://www.nytimes.com/2021/10/12/health/ecigarettes-fda-vuse.html",
+            "uri": "nyt://article/ac5f0c46-2f0b-5318-9dcd-6a40e76af519",
+            "byline": "By Matt Richtel and Sheila Kaplan",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T23:48:35-04:00",
+            "created_date": "2021-10-12T18:49:27-04:00",
+            "published_date": "2021-10-12T18:49:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "E-Cigarettes",
+                "Teenagers and Adolescence",
+                "Smoking and Tobacco",
+                "Medicine and Health"
+            ],
+            "org_facet": [
+                "Food and Drug Administration",
+                "Juul Labs Inc",
+                "Reynolds, R J, Tobacco Co"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+                    "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+                    "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+                    "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+                    "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12vaping/12vaping-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 132,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Vuse Solo e-cigarette is the first to be approved for market by the F.D.A., which says it helps smokers quit.",
+                    "copyright": "Brian Ach/Associated Press, for R.J. Reynolds Vapor Company"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AAYVE0"
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Workers quitting their jobs hit a record in the U.S. in August.",
+            "abstract": "A government report shows how the balance of power in the labor market has swung toward workers.",
+            "url": "https://www.nytimes.com/2021/10/12/business/economy/workers-quitting-august.html",
+            "uri": "nyt://article/c48b3ac7-9007-5321-bb65-f2b46f74e67d",
+            "byline": "By Ben Casselman",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T17:31:43-04:00",
+            "created_date": "2021-10-12T17:21:55-04:00",
+            "published_date": "2021-10-12T17:21:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Labor and Jobs",
+                "Coronavirus Delta Variant",
+                "Hiring and Promotion",
+                "Careers and Professions",
+                "United States Economy"
+            ],
+            "org_facet": [
+                "Labor Department (US)"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/datawrapper_pWJfN-1634072986129/datawrapper_pWJfN-1634072986129-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 840,
+                    "width": 1240,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/datawrapper_pWJfN-1634072986129/datawrapper_pWJfN-1634072986129-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/datawrapper_pWJfN-1634072986129/datawrapper_pWJfN-1634072986129-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/datawrapper_pWJfN-1634072986129/datawrapper_pWJfN-1634072986129-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/datawrapper_pWJfN-1634072986129/datawrapper_pWJfN-1634072986129-articleInline.png",
+                    "format": "Normal",
+                    "height": 129,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3lCD7E1"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "American and Southwest Airlines reject the Texas order banning vaccine mandates.",
+            "abstract": "“This does not change anything for American,” a spokeswoman said. When the airline introduced its mandate, it cited a presidential order that employees of government contractors be vaccinated.",
+            "url": "https://www.nytimes.com/2021/10/12/business/southwest-american-vaccine-mandate-texas.html",
+            "uri": "nyt://article/5cfc6799-0a15-5f7c-9c54-cfe30f2c9b32",
+            "byline": "By Coral Murphy Marcos and Daniel E. Slotnik",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T05:01:12-04:00",
+            "created_date": "2021-10-12T17:13:09-04:00",
+            "published_date": "2021-10-12T17:13:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Airlines and Airplanes",
+                "Politics and Government",
+                "Workplace Hazards and Violations",
+                "Law and Legislation"
+            ],
+            "org_facet": [
+                "American Airlines",
+                "Southwest Airlines Company"
+            ],
+            "per_facet": [
+                "Abbott, Gregory W (1957- )",
+                "DeSantis, Ron",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Florida",
+                "Texas",
+                "Tallahassee (Fla)"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/12economy-briefing-southwest-1/12economy-briefing-southwest-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1321,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Southwest Airlines, which is based in Dallas, said it would “remain compliant\" with a federal Covid-19 vaccine mandate for government contractors. ",
+                    "copyright": "Kevin Dietsch/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/12economy-briefing-southwest-1/12economy-briefing-southwest-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Southwest Airlines, which is based in Dallas, said it would “remain compliant\" with a federal Covid-19 vaccine mandate for government contractors. ",
+                    "copyright": "Kevin Dietsch/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/12economy-briefing-southwest-1/12economy-briefing-southwest-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Southwest Airlines, which is based in Dallas, said it would “remain compliant\" with a federal Covid-19 vaccine mandate for government contractors. ",
+                    "copyright": "Kevin Dietsch/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/12economy-briefing-southwest-1/12economy-briefing-southwest-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Southwest Airlines, which is based in Dallas, said it would “remain compliant\" with a federal Covid-19 vaccine mandate for government contractors. ",
+                    "copyright": "Kevin Dietsch/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/us/12economy-briefing-southwest-1/12economy-briefing-southwest-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Southwest Airlines, which is based in Dallas, said it would “remain compliant\" with a federal Covid-19 vaccine mandate for government contractors. ",
+                    "copyright": "Kevin Dietsch/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/30fek0h"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "W.H.O. Will Announce New Team to Study Coronavirus Origins",
+            "abstract": "“This new group can do all the fancy footwork it wants, but China’s not going to cooperate,” one expert said.",
+            "url": "https://www.nytimes.com/2021/10/12/health/covid-lab-leak-who-china.html",
+            "uri": "nyt://article/a6e98489-ef14-52a9-91bd-2000198b288b",
+            "byline": "By Benjamin Mueller",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T22:56:08-04:00",
+            "created_date": "2021-10-12T16:26:57-04:00",
+            "published_date": "2021-10-12T16:26:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Politics and Government",
+                "Research",
+                "International Relations",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/00VIRUS-ORIGINS1/00VIRUS-ORIGINS1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of an earlier W.H.O. task force visiting the Huanan Seafood market in Wuhan, China, in January of this year.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/00VIRUS-ORIGINS1/00VIRUS-ORIGINS1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of an earlier W.H.O. task force visiting the Huanan Seafood market in Wuhan, China, in January of this year.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/00VIRUS-ORIGINS1/00VIRUS-ORIGINS1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of an earlier W.H.O. task force visiting the Huanan Seafood market in Wuhan, China, in January of this year.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/00VIRUS-ORIGINS1/00VIRUS-ORIGINS1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of an earlier W.H.O. task force visiting the Huanan Seafood market in Wuhan, China, in January of this year.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/00VIRUS-ORIGINS1/00VIRUS-ORIGINS1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of an earlier W.H.O. task force visiting the Huanan Seafood market in Wuhan, China, in January of this year.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mMa3cj"
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Risk of high inflation dogs central bankers as consumer expectations climb.",
+            "abstract": "A survey by the Federal Reserve Bank of New York shows inflation expectations are the highest since 2013, adding pressure for Fed officials.",
+            "url": "https://www.nytimes.com/2021/10/12/business/economy/inflation-expectations-federal-reserve.html",
+            "uri": "nyt://article/46d26228-e4f5-58d4-bf8a-827c2b8e528a",
+            "byline": "By Jeanna Smialek",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:14:07-04:00",
+            "created_date": "2021-10-12T12:38:11-04:00",
+            "published_date": "2021-10-12T12:38:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Inflation (Economics)",
+                "United States Economy",
+                "Quantitative Easing",
+                "Stimulus (Economic)"
+            ],
+            "org_facet": [
+                "Federal Reserve Bank of New York",
+                "Federal Reserve System"
+            ],
+            "per_facet": [
+                "Clarida, Richard H (1957- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12Economy-Briefing-Inflation/merlin_190559061_643c62d5-939d-4911-84a2-bcba73c28c8b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Richard H. Clarida, the Federal Reserve’s vice chair, in 2019. “I believe, as do most of my colleagues, that the risks to inflation are to the upside, and I continue to be attuned and attentive to underlying inflation trends,” he said Tuesday.",
+                    "copyright": "Jonathan Crosby/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12Economy-Briefing-Inflation/merlin_190559061_643c62d5-939d-4911-84a2-bcba73c28c8b-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Richard H. Clarida, the Federal Reserve’s vice chair, in 2019. “I believe, as do most of my colleagues, that the risks to inflation are to the upside, and I continue to be attuned and attentive to underlying inflation trends,” he said Tuesday.",
+                    "copyright": "Jonathan Crosby/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12Economy-Briefing-Inflation/merlin_190559061_643c62d5-939d-4911-84a2-bcba73c28c8b-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Richard H. Clarida, the Federal Reserve’s vice chair, in 2019. “I believe, as do most of my colleagues, that the risks to inflation are to the upside, and I continue to be attuned and attentive to underlying inflation trends,” he said Tuesday.",
+                    "copyright": "Jonathan Crosby/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12Economy-Briefing-Inflation/merlin_190559061_643c62d5-939d-4911-84a2-bcba73c28c8b-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Richard H. Clarida, the Federal Reserve’s vice chair, in 2019. “I believe, as do most of my colleagues, that the risks to inflation are to the upside, and I continue to be attuned and attentive to underlying inflation trends,” he said Tuesday.",
+                    "copyright": "Jonathan Crosby/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12Economy-Briefing-Inflation/merlin_190559061_643c62d5-939d-4911-84a2-bcba73c28c8b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Richard H. Clarida, the Federal Reserve’s vice chair, in 2019. “I believe, as do most of my colleagues, that the risks to inflation are to the upside, and I continue to be attuned and attentive to underlying inflation trends,” he said Tuesday.",
+                    "copyright": "Jonathan Crosby/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oWl4e6"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Recent Commercial Real Estate Transactions",
+            "abstract": "Recent commercial real estate transactions in New York.",
+            "url": "https://www.nytimes.com/2021/10/12/business/new-york-commercial-real-estate.html",
+            "uri": "nyt://article/9cdee8e0-70db-5598-8248-77e3fdb03a12",
+            "byline": "By Jordan Allen",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:14:44-04:00",
+            "created_date": "2021-10-12T12:23:20-04:00",
+            "published_date": "2021-10-12T12:23:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Real Estate (Commercial)"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "Bay Ridge (Brooklyn, NY)",
+                "Financial District (Manhattan, NY)",
+                "Prospect Lefferts Gardens (Brooklyn, NY)"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12trans-print/12stonest-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "These two buildings on a historic block in the financial district of Manhattan were sold as a package. ",
+                    "copyright": "Anthony Puopolo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12trans-print/12stonest-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "These two buildings on a historic block in the financial district of Manhattan were sold as a package. ",
+                    "copyright": "Anthony Puopolo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12trans-print/12stonest-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "These two buildings on a historic block in the financial district of Manhattan were sold as a package. ",
+                    "copyright": "Anthony Puopolo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12trans-print/12stonest-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "These two buildings on a historic block in the financial district of Manhattan were sold as a package. ",
+                    "copyright": "Anthony Puopolo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12trans-print/12stonest-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "These two buildings on a historic block in the financial district of Manhattan were sold as a package. ",
+                    "copyright": "Anthony Puopolo"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oS4VWU"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "LG will pay G.M. $1.9 billion for a battery flaw that led to a Bolt recall.",
+            "abstract": "General Motors has recalled 141,000 Bolts to replace battery packs that can catch on fire because of manufacturing defects.",
+            "url": "https://www.nytimes.com/2021/10/12/business/lg-gm-bolt-battery-recall.html",
+            "uri": "nyt://article/ccb563a5-d084-5f2f-bd44-3cfddd1b4fd1",
+            "byline": "By Neal E. Boudette",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T13:10:12-04:00",
+            "created_date": "2021-10-12T11:15:49-04:00",
+            "published_date": "2021-10-12T11:15:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Automobile Safety Features and Defects",
+                "Automobiles",
+                "Recalls and Bans of Products",
+                "Batteries",
+                "Factories and Manufacturing",
+                "Electric and Hybrid Vehicles"
+            ],
+            "org_facet": [
+                "General Motors",
+                "LG Electronics",
+                "Chevrolet Division of General Motors Corp"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12econ-brf-gm/merlin_194647143_82ad56fb-6b67-4616-96ec-0a0877d23df9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1265,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 2022 Chevrolet Bolt at a dealership in Colorado.",
+                    "copyright": "David Zalubowski/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12econ-brf-gm/12econ-brf-gm-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 2022 Chevrolet Bolt at a dealership in Colorado.",
+                    "copyright": "David Zalubowski/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12econ-brf-gm/12econ-brf-gm-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 2022 Chevrolet Bolt at a dealership in Colorado.",
+                    "copyright": "David Zalubowski/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12econ-brf-gm/12econ-brf-gm-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 2022 Chevrolet Bolt at a dealership in Colorado.",
+                    "copyright": "David Zalubowski/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12econ-brf-gm/merlin_194647143_82ad56fb-6b67-4616-96ec-0a0877d23df9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 117,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 2022 Chevrolet Bolt at a dealership in Colorado.",
+                    "copyright": "David Zalubowski/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FD4vJZ"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Aspirin Use to Prevent 1st Heart Attack or Stroke Should Be Curtailed, U.S. Panel Says",
+            "abstract": "Adults at high risk for cardiovascular disease may face serious side effects if they start a daily regimen of low-dose aspirin.",
+            "url": "https://www.nytimes.com/2021/10/12/health/aspirin-heart-attack-stroke.html",
+            "uri": "nyt://article/c9bd075c-483f-51c3-9d2c-dc652922fabd",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T23:46:36-04:00",
+            "created_date": "2021-10-12T11:00:10-04:00",
+            "published_date": "2021-10-12T11:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Aspirin",
+                "Preventive Medicine",
+                "Heart",
+                "Colon and Colorectal Cancer",
+                "Stroke",
+                "Doctors",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Agency for Healthcare Research and Quality",
+                "United States Preventive Services Task Force",
+                "American College of Cardiology",
+                "American Heart Assn"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/science/12aspirin/12aspirin-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 143,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Doctors would be discouraged from starting patients on a daily dose of baby aspirin to prevent heart attack or stroke under proposed new guidelines.",
+                    "copyright": "Alamy"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AzCmQ4"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.",
+            "abstract": "Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation.",
+            "url": "https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html",
+            "uri": "nyt://article/175512be-7644-527c-85ab-b1964e51cf95",
+            "byline": "By Derrick Bryson Taylor",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T12:51:35-04:00",
+            "created_date": "2021-10-12T10:55:44-04:00",
+            "published_date": "2021-10-12T10:55:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Women and Girls",
+                "Nobel Prizes"
+            ],
+            "org_facet": [
+                "Swedish Academy"
+            ],
+            "per_facet": [
+                "Ressa, Maria",
+                "Hansson, Goran K"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/merlin_196014939_8cf57bb9-502c-47f3-bfe8-6ce029220869-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+                    "copyright": "Eloisa Lopez/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+                    "copyright": "Eloisa Lopez/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+                    "copyright": "Eloisa Lopez/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+                    "copyright": "Eloisa Lopez/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/multimedia/12xp-nobelwomen-2/12xp-nobelwomen-2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The journalist Maria Ressa was the only woman to be awarded a Nobel Prize in 2021.",
+                    "copyright": "Eloisa Lopez/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FPg8xA"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "France to invest in small nuclear reactors and green energy projects.",
+            "abstract": "A plan outlined by President Emmanuel Macron commits 30 billion euros to finance crucial industries and cut greenhouse emissions.",
+            "url": "https://www.nytimes.com/2021/10/12/business/france-to-invest-in-small-nuclear-reactors-and-green-energy-projects.html",
+            "uri": "nyt://article/8aa7160c-2445-5eee-8e5e-83bc6f36aefe",
+            "byline": "By Liz Alderman",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T02:08:47-04:00",
+            "created_date": "2021-10-12T10:50:23-04:00",
+            "published_date": "2021-10-12T10:50:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Greenhouse Gas Emissions",
+                "Fuel Emissions (Transportation)",
+                "Nuclear Energy"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Macron, Emmanuel (1977- )",
+                "Le Maire, Bruno"
+            ],
+            "geo_facet": [
+                "France"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-france/merlin_185889330_9757ef84-e6eb-43d4-821e-4986953bc3be-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France’s plan to bolster its economy and reduce greenhouse emissions includes money to promote more electric and hybrid vehicles and low-emissions aircraft.",
+                    "copyright": "Yoan Valat/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-france/12economy-briefing-france-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France’s plan to bolster its economy and reduce greenhouse emissions includes money to promote more electric and hybrid vehicles and low-emissions aircraft.",
+                    "copyright": "Yoan Valat/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-france/12economy-briefing-france-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France’s plan to bolster its economy and reduce greenhouse emissions includes money to promote more electric and hybrid vehicles and low-emissions aircraft.",
+                    "copyright": "Yoan Valat/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-france/12economy-briefing-france-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France’s plan to bolster its economy and reduce greenhouse emissions includes money to promote more electric and hybrid vehicles and low-emissions aircraft.",
+                    "copyright": "Yoan Valat/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-france/merlin_185889330_9757ef84-e6eb-43d4-821e-4986953bc3be-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France’s plan to bolster its economy and reduce greenhouse emissions includes money to promote more electric and hybrid vehicles and low-emissions aircraft.",
+                    "copyright": "Yoan Valat/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3azFRf4"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "As earnings season begins, inflation and supply chain issues cloud the outlook.",
+            "abstract": "Companies start reporting their third-quarter earnings this week, and profits are expected to have risen substantially. But worries of future growth are growing.",
+            "url": "https://www.nytimes.com/2021/10/12/business/earnings-inflation-supply-chain.html",
+            "uri": "nyt://article/8cd6125c-7cbb-5f3a-a149-aad0512a014e",
+            "byline": "By Stephen Gandel",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:14:23-04:00",
+            "created_date": "2021-10-12T09:27:16-04:00",
+            "published_date": "2021-10-12T09:27:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Company Reports",
+                "International Trade and World Market",
+                "United States Economy",
+                "Standard & Poor's 500-Stock Index"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/3DvGbYw"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "The I.M.F. warns of inflation and a slowing recovery as it lowers its forecast.",
+            "abstract": "The global growth forecast was pared to 5.9 percent from 6 percent because of the Delta variant and supply chain bottlenecks. The U.S. growth prediction was cut to 6 percent from 7 percent.",
+            "url": "https://www.nytimes.com/2021/10/12/business/imf-global-economic-recovery-forecast.html",
+            "uri": "nyt://article/1ccbd268-25a1-5f67-a2c1-228db66dc2b3",
+            "byline": "By Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T18:30:22-04:00",
+            "created_date": "2021-10-12T09:00:06-04:00",
+            "published_date": "2021-10-12T09:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "United States Economy",
+                "Coronavirus (2019-nCoV)",
+                "Economic Conditions and Trends",
+                "Third World and Developing Countries"
+            ],
+            "org_facet": [
+                "International Monetary Fund"
+            ],
+            "per_facet": [
+                "Gopinath, Gita"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-weo/merlin_195906465_bb14a821-e7e1-4d55-8db4-9e98f26f07f7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1374,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The fund has warned that disparities in vaccine distribution have created a two-track recovery.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-weo/12economy-briefing-weo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The fund has warned that disparities in vaccine distribution have created a two-track recovery.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-weo/12economy-briefing-weo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The fund has warned that disparities in vaccine distribution have created a two-track recovery.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-weo/merlin_195906465_bb14a821-e7e1-4d55-8db4-9e98f26f07f7-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The fund has warned that disparities in vaccine distribution have created a two-track recovery.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12economy-briefing-weo/merlin_195906465_bb14a821-e7e1-4d55-8db4-9e98f26f07f7-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 128,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The fund has warned that disparities in vaccine distribution have created a two-track recovery.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3v3M0ta"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Samsung’s chief, Lee Jae-yong, pleads guilty to a prescription drug charge.",
+            "abstract": "The head of South Korea’s largest company was accused of illegally using a sedative.",
+            "url": "https://www.nytimes.com/2021/10/12/business/lee-jae-yong-pleads-guilty-prescription-drugs.html",
+            "uri": "nyt://article/f3745441-d9dc-5151-922e-2aaeec075f50",
+            "byline": "By Jin Yu Young",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:13:57-04:00",
+            "created_date": "2021-10-12T08:46:43-04:00",
+            "published_date": "2021-10-12T08:46:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "Anesthesia and Anesthetics"
+            ],
+            "org_facet": [
+                "Samsung Group"
+            ],
+            "per_facet": [
+                "Lee Jae-yong (1968- )"
+            ],
+            "geo_facet": [
+                "South Korea"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12samsung-print/merlin_196163787_927d76ab-f7f6-4d92-a516-4d74a3d2c10a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1327,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lee Jae-yong, center, arriving at court in Seoul on Tuesday to face charges of illegal use of a sedative. His legal problems have raised questions about his ability to lead Samsung.",
+                    "copyright": "Jung Yeon-Je/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12samsung-print/12economy-briefing-samsung-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lee Jae-yong, center, arriving at court in Seoul on Tuesday to face charges of illegal use of a sedative. His legal problems have raised questions about his ability to lead Samsung.",
+                    "copyright": "Jung Yeon-Je/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12samsung-print/12economy-briefing-samsung-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lee Jae-yong, center, arriving at court in Seoul on Tuesday to face charges of illegal use of a sedative. His legal problems have raised questions about his ability to lead Samsung.",
+                    "copyright": "Jung Yeon-Je/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12samsung-print/12economy-briefing-samsung-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lee Jae-yong, center, arriving at court in Seoul on Tuesday to face charges of illegal use of a sedative. His legal problems have raised questions about his ability to lead Samsung.",
+                    "copyright": "Jung Yeon-Je/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12samsung-print/merlin_196163787_927d76ab-f7f6-4d92-a516-4d74a3d2c10a-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lee Jae-yong, center, arriving at court in Seoul on Tuesday to face charges of illegal use of a sedative. His legal problems have raised questions about his ability to lead Samsung.",
+                    "copyright": "Jung Yeon-Je/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FH19pm"
+        },
+        {
+            "section": "business",
+            "subsection": "dealbook",
+            "title": "Harry and Meghan Get into Finance",
+            "abstract": "The royal couple’s latest business partnership is all about sustainable investing.",
+            "url": "https://www.nytimes.com/2021/10/12/business/dealbook/harry-meghan-ethical-investors.html",
+            "uri": "nyt://article/f5c6e5fa-cb0e-5cf0-bb0f-94b9c574effd",
+            "byline": "By Andrew Ross Sorkin, Jason Karaian, Sarah Kessler, Stephen Gandel, Lauren Hirsch, Ephrat Livni and Anna Schaverien",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T07:53:51-04:00",
+            "created_date": "2021-10-12T07:53:51-04:00",
+            "published_date": "2021-10-12T07:53:51-04:00",
+            "material_type_facet": "",
+            "kicker": "DealBook Newsletter",
+            "des_facet": [
+                "Corporate Social Responsibility",
+                "Stocks and Bonds",
+                "Appointments and Executive Changes",
+                "Company Reports",
+                "Initial Public Offerings",
+                "Standard & Poor's 500-Stock Index",
+                "Longevity",
+                "Royal Families"
+            ],
+            "org_facet": [
+                "Acorns Advisers LLC",
+                "China Evergrande Group"
+            ],
+            "per_facet": [
+                "Harry, Duke of Sussex",
+                "Markle, Meghan"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12db-newsletter-royals/merlin_195190692_091610ac-8003-4c2a-81d3-7891f9748732-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan, Duchess of Sussex, E.S.G. investors.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12db-newsletter-royals/12db-newsletter-royals-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan, Duchess of Sussex, E.S.G. investors.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12db-newsletter-royals/12db-newsletter-royals-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan, Duchess of Sussex, E.S.G. investors.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12db-newsletter-royals/merlin_195190692_091610ac-8003-4c2a-81d3-7891f9748732-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan, Duchess of Sussex, E.S.G. investors.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12db-newsletter-royals/merlin_195190692_091610ac-8003-4c2a-81d3-7891f9748732-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan, Duchess of Sussex, E.S.G. investors.",
+                    "copyright": "Andrew Kelly/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mNZQfs"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Should Passengers Be Vaccinated or Tested to Fly Within the U.S.?",
+            "abstract": "Numerous airline executives say no, but a growing number of politicians and medical experts say it is worth following Canada’s lead before holiday travel commences.",
+            "url": "https://www.nytimes.com/2021/10/12/travel/vaccine-testing-airlines.html",
+            "uri": "nyt://article/3461b9bb-8fa3-5043-830a-82b3cc0da3bc",
+            "byline": "By Heather Murphy",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T11:08:00-04:00",
+            "created_date": "2021-10-12T05:00:18-04:00",
+            "published_date": "2021-10-12T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus Risks and Safety Concerns",
+                "Masks",
+                "Coronavirus Delta Variant",
+                "Aviation Accidents, Safety and Disasters",
+                "Travel and Vacations",
+                "Airlines and Airplanes",
+                "Airports",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+                "Airlines for America",
+                "Hawaiian Airlines Incorporated"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/11/travel/00airlinevaccinedebate/merlin_195656667_c154a928-defa-4bc3-b7d3-b53ed921b5d9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A JetBlue plane at Ronald Reagan Washington National Airport in Arlington, Va. Passengers would resent the longer lines that a domestic vaccine mandate would create, JetBlue’s chief executive said. Some lawmakers and researchers say it’s worth it. ",
+                    "copyright": "Patrick Semansky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/travel/00airlinevaccinedebate/merlin_195656667_c154a928-defa-4bc3-b7d3-b53ed921b5d9-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A JetBlue plane at Ronald Reagan Washington National Airport in Arlington, Va. Passengers would resent the longer lines that a domestic vaccine mandate would create, JetBlue’s chief executive said. Some lawmakers and researchers say it’s worth it. ",
+                    "copyright": "Patrick Semansky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/travel/00airlinevaccinedebate/merlin_195656667_c154a928-defa-4bc3-b7d3-b53ed921b5d9-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A JetBlue plane at Ronald Reagan Washington National Airport in Arlington, Va. Passengers would resent the longer lines that a domestic vaccine mandate would create, JetBlue’s chief executive said. Some lawmakers and researchers say it’s worth it. ",
+                    "copyright": "Patrick Semansky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/travel/00airlinevaccinedebate/merlin_195656667_c154a928-defa-4bc3-b7d3-b53ed921b5d9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A JetBlue plane at Ronald Reagan Washington National Airport in Arlington, Va. Passengers would resent the longer lines that a domestic vaccine mandate would create, JetBlue’s chief executive said. Some lawmakers and researchers say it’s worth it. ",
+                    "copyright": "Patrick Semansky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/travel/00airlinevaccinedebate/merlin_195656667_c154a928-defa-4bc3-b7d3-b53ed921b5d9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A JetBlue plane at Ronald Reagan Washington National Airport in Arlington, Va. Passengers would resent the longer lines that a domestic vaccine mandate would create, JetBlue’s chief executive said. Some lawmakers and researchers say it’s worth it. ",
+                    "copyright": "Patrick Semansky/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AykULY"
+        },
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "Zen and the Art of Printer Maintenance",
+            "abstract": "In her novel “LaserWriter II,” Tamara Shopsin visits the free-spirited world of Tekserve, a beloved Mac repair shop in 1990s Manhattan.",
+            "url": "https://www.nytimes.com/2021/10/12/books/review/tamara-shopsin-laserwriter.html",
+            "uri": "nyt://article/3dd0aadc-d1e8-5310-9906-8af1e9099bb6",
+            "byline": "By J. D. Biersdorfer",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T13:25:30-04:00",
+            "created_date": "2021-10-12T05:00:07-04:00",
+            "published_date": "2021-10-12T05:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "Fiction",
+            "des_facet": [
+                "Books and Literature",
+                "LaserWriter II: A Novel (Book)"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Shopsin, Tamara"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/books/review/12Biersdorfer/12Biersdorfer-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antique computers at Tekserve, an Apple repair shop in Manhattan that closed in 2016.",
+                    "copyright": "Charly Kurz/laif, via Redux"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/books/review/12Biersdorfer/12Biersdorfer-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antique computers at Tekserve, an Apple repair shop in Manhattan that closed in 2016.",
+                    "copyright": "Charly Kurz/laif, via Redux"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/books/review/12Biersdorfer/12Biersdorfer-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antique computers at Tekserve, an Apple repair shop in Manhattan that closed in 2016.",
+                    "copyright": "Charly Kurz/laif, via Redux"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/books/review/12Biersdorfer/12Biersdorfer-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antique computers at Tekserve, an Apple repair shop in Manhattan that closed in 2016.",
+                    "copyright": "Charly Kurz/laif, via Redux"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/books/review/12Biersdorfer/12Biersdorfer-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antique computers at Tekserve, an Apple repair shop in Manhattan that closed in 2016.",
+                    "copyright": "Charly Kurz/laif, via Redux"
+                }
+            ],
+            "short_url": "https://nyti.ms/3iQbSEc"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Kristalina Georgieva will remain managing director of the I.M.F., its board says.",
+            "abstract": "An independent inquiry commissioned by the World Bank had concluded that she played a central role in manipulating data to placate China.",
+            "url": "https://www.nytimes.com/2021/10/11/business/kristalina-georgieva-imf.html",
+            "uri": "nyt://article/02ccf524-bf62-52ba-8e9a-bad7226e347c",
+            "byline": "By Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:15:26-04:00",
+            "created_date": "2021-10-11T23:03:46-04:00",
+            "published_date": "2021-10-11T23:03:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Economic Conditions and Trends",
+                "Politics and Government",
+                "United States Politics and Government",
+                "Foreign Investments"
+            ],
+            "org_facet": [
+                "International Monetary Fund"
+            ],
+            "per_facet": [
+                "Georgieva, Kristalina Ivanova"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/11ALTimf-print/merlin_193718424_87439c8d-9e9f-4b5e-9f05-d05b374e03e9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristalina Georgieva, left, the managing director of the International Monetary Fund, with Angela Merkel, the German chancellor, in August. ",
+                    "copyright": "Pool photo by Clemens Bilan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/11ALTimf-print/merlin_193718424_87439c8d-9e9f-4b5e-9f05-d05b374e03e9-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristalina Georgieva, left, the managing director of the International Monetary Fund, with Angela Merkel, the German chancellor, in August. ",
+                    "copyright": "Pool photo by Clemens Bilan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/11ALTimf-print/merlin_193718424_87439c8d-9e9f-4b5e-9f05-d05b374e03e9-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristalina Georgieva, left, the managing director of the International Monetary Fund, with Angela Merkel, the German chancellor, in August. ",
+                    "copyright": "Pool photo by Clemens Bilan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/11ALTimf-print/merlin_193718424_87439c8d-9e9f-4b5e-9f05-d05b374e03e9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristalina Georgieva, left, the managing director of the International Monetary Fund, with Angela Merkel, the German chancellor, in August. ",
+                    "copyright": "Pool photo by Clemens Bilan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/11ALTimf-print/merlin_193718424_87439c8d-9e9f-4b5e-9f05-d05b374e03e9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristalina Georgieva, left, the managing director of the International Monetary Fund, with Angela Merkel, the German chancellor, in August. ",
+                    "copyright": "Pool photo by Clemens Bilan"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YyMv2h"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Biden’s Proposal to Empower I.R.S. Rattles Banks and Their Customers",
+            "abstract": "To help fund its new initiatives, the Biden administration wants banks to report more customer information. Account holders aren’t happy.",
+            "url": "https://www.nytimes.com/2021/10/11/business/irs-bank-accounts.html",
+            "uri": "nyt://article/3a4fd7f8-6fb9-525b-af47-bbea00abb63c",
+            "byline": "By Kate Kelly and Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T12:10:37-04:00",
+            "created_date": "2021-10-11T19:21:59-04:00",
+            "published_date": "2021-10-11T19:21:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Banking and Financial Institutions",
+                "Federal Taxes (US)",
+                "Tax Evasion",
+                "United States Politics and Government",
+                "High Net Worth Individuals"
+            ],
+            "org_facet": [
+                "Internal Revenue Service",
+                "House of Representatives",
+                "Democratic Party",
+                "Senate",
+                "Treasury Department"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/00dc-irs01/merlin_195893589_6477b9ee-c2f4-4652-92be-e3e7f8ed2008-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We have heard a lot from our customers about their concerns about their privacy,” said Jill Castilla, the chief executive of the one-branch Citizens Bank of Edmond, just outside Oklahoma City.",
+                    "copyright": "Nick Oxford for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/00dc-irs01/00dc-irs01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We have heard a lot from our customers about their concerns about their privacy,” said Jill Castilla, the chief executive of the one-branch Citizens Bank of Edmond, just outside Oklahoma City.",
+                    "copyright": "Nick Oxford for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/00dc-irs01/00dc-irs01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We have heard a lot from our customers about their concerns about their privacy,” said Jill Castilla, the chief executive of the one-branch Citizens Bank of Edmond, just outside Oklahoma City.",
+                    "copyright": "Nick Oxford for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/00dc-irs01/00dc-irs01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We have heard a lot from our customers about their concerns about their privacy,” said Jill Castilla, the chief executive of the one-branch Citizens Bank of Edmond, just outside Oklahoma City.",
+                    "copyright": "Nick Oxford for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/00dc-irs01/00dc-irs01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We have heard a lot from our customers about their concerns about their privacy,” said Jill Castilla, the chief executive of the one-branch Citizens Bank of Edmond, just outside Oklahoma City.",
+                    "copyright": "Nick Oxford for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AJ96qt"
+        }
+    ]
+}

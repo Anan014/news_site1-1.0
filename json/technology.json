@@ -1,0 +1,2213 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Technology",
+    "last_updated": "2021-10-12T12:35:54-04:00",
+    "num_results": 27,
+    "results": [{
+            "section": "business",
+            "subsection": "",
+            "title": "As Big Tech Grows in the Pandemic, Seattle Grows With It",
+            "abstract": "Despite an overall decline in office leasing in the United States, technology companies gobbled up more space in the Seattle area than they had the previous year.",
+            "url": "https://www.nytimes.com/2021/10/12/business/seattle-real-estate-coronavirus.html",
+            "uri": "nyt://article/6fcdf35a-139b-56a6-aced-f8606dfd8b7c",
+            "byline": "By Julie Weed",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:15:12-04:00",
+            "created_date": "2021-10-12T06:00:10-04:00",
+            "published_date": "2021-10-12T06:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "Square Feet",
+            "des_facet": [
+                "Real Estate (Commercial)",
+                "Relocation of Business",
+                "Quarantine (Life and Culture)",
+                "Renting and Leasing (Real Estate)",
+                "Real Estate and Housing (Residential)",
+                "Coronavirus (2019-nCoV)",
+                "Computers and the Internet",
+                "Labor and Jobs"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "Seattle (Wash)",
+                "Redmond (Wash)",
+                "Kirkland (Wash)",
+                "Bellevue (Wash)"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/merlin_195453216_61e5be47-4a75-47d6-bc00-722744300ed9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/12seattle-tech-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/12seattle-tech-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/merlin_195453216_61e5be47-4a75-47d6-bc00-722744300ed9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/business/12seattle-tech-01/merlin_195453216_61e5be47-4a75-47d6-bc00-722744300ed9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 143,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook, which is based in Menlo Park, Calif., has signed new leases for office space in the Seattle area, including one for an 11-story building in Bellevue.",
+                    "copyright": "Grant Hindsley for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mJEQGM"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Inside the Courtroom With Theranos’s Elizabeth Holmes",
+            "abstract": "Behind the closed doors are whispers, gestures and a daily rhythm, plus two court artists, numbered tickets and some true-crime fans.",
+            "url": "https://www.nytimes.com/2021/10/11/technology/elizabeth-holmes-theranos-courtroom.html",
+            "uri": "nyt://article/fbc9c1ce-15c8-5944-bd39-bc6f251d52ec",
+            "byline": "By Erin Woo and Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T11:07:20-04:00",
+            "created_date": "2021-10-11T05:00:17-04:00",
+            "published_date": "2021-10-11T05:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Jury System",
+                "Tests (Medical)",
+                "Computers and the Internet",
+                "Entrepreneurship",
+                "Frauds and Swindling"
+            ],
+            "org_facet": [
+                "Theranos Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1373,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/00holmes-courtroom-vicki-04/00holmes-courtroom-vicki-04-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vicki Behringer, one of two court artists for the fraud trial of the Theranos founder Elizabeth Holmes, drew this depiction of Ms. Holmes and Judge Edward J. Davila.",
+                    "copyright": "Vicki Behringer"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ApEGt7"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "After Whistle-Blower Goes Public, Facebook Tries Calming Employees",
+            "abstract": "Employees are divided over Frances Haugen, a former product manager who testified that the company was putting profit before safety.",
+            "url": "https://www.nytimes.com/2021/10/10/technology/facebook-whistleblower-employees.html",
+            "uri": "nyt://article/ba6ff448-b80c-5ace-b7d3-8761112f6ad0",
+            "byline": "By Mike Isaac, Ryan Mac and Sheera Frenkel",
+            "item_type": "Article",
+            "updated_date": "2021-10-11T12:53:45-04:00",
+            "created_date": "2021-10-10T14:17:54-04:00",
+            "published_date": "2021-10-10T14:17:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet",
+                "Whistle-Blowers",
+                "Corporate Social Responsibility"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Instagram Inc"
+            ],
+            "per_facet": [
+                "Haugen, Frances",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/11/lens/10facebook1-haugen-print/merlin_195854316_de44e287-009e-4c1a-b5b2-7354428a6684-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, a former Facebook product manager turned whistle-blower, testifying before a Senate subcommittee last week.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/lens/10facebook1-haugen-print/10facebook-haugen-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, a former Facebook product manager turned whistle-blower, testifying before a Senate subcommittee last week.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/lens/10facebook1-haugen-print/10facebook-haugen-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, a former Facebook product manager turned whistle-blower, testifying before a Senate subcommittee last week.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/lens/10facebook1-haugen-print/merlin_195854316_de44e287-009e-4c1a-b5b2-7354428a6684-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, a former Facebook product manager turned whistle-blower, testifying before a Senate subcommittee last week.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/11/lens/10facebook1-haugen-print/merlin_195854316_de44e287-009e-4c1a-b5b2-7354428a6684-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, a former Facebook product manager turned whistle-blower, testifying before a Senate subcommittee last week.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oMbNFh"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Spending Is Big Tech’s Superpower",
+            "abstract": "When the tech giants splurge on big-ticket investments, it’s great for them but hard for others to keep up.",
+            "url": "https://www.nytimes.com/2021/10/12/technology/big-tech-spending.html",
+            "uri": "nyt://article/e3cc7623-ff6d-5a05-b62a-4433806ef314",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T12:34:18-04:00",
+            "created_date": "2021-10-12T12:34:18-04:00",
+            "published_date": "2021-10-12T12:34:18-04:00",
+            "material_type_facet": "",
+            "kicker": "the on tech newsletter",
+            "des_facet": [
+                "internal-sub-only",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12OnTech-Capex/12OnTech-Capex-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nick Little"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12OnTech-Capex/12OnTech-Capex-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nick Little"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12OnTech-Capex/12OnTech-Capex-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nick Little"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12OnTech-Capex/12OnTech-Capex-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nick Little"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/12/business/12OnTech-Capex/12OnTech-Capex-articleInline.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nick Little"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DCAxnl"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "How to Watch William Shatner Launch to Space on Blue Origin",
+            "abstract": "Jeff Bezos’ rocket company will launch the man who played Captain Kirk along with three other passengers on a short up and down flight to the edge of space.",
+            "url": "https://www.nytimes.com/2021/10/13/science/william-shatner-blue-origin-launch-time.html",
+            "uri": "nyt://article/58a28879-e42b-5c1e-8f74-250154028e79",
+            "byline": "By Joey Roulette",
+            "item_type": "Article",
+            "updated_date": "2021-10-13T01:54:05-04:00",
+            "created_date": "2021-10-13T00:00:10-04:00",
+            "published_date": "2021-10-13T00:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Space and Astronomy",
+                "Private Spaceflight",
+                "Rocket Science and Propulsion"
+            ],
+            "org_facet": [
+                "Blue Origin"
+            ],
+            "per_facet": [
+                "Shatner, William",
+                "Bezos, Jeffrey P"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard’s second flight.",
+                    "copyright": "Blue Origin, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard’s second flight.",
+                    "copyright": "Blue Origin, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard’s second flight.",
+                    "copyright": "Blue Origin, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard’s second flight.",
+                    "copyright": "Blue Origin, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/13/science/13shatner-launch-launch-crew/merlin_196183170_9a7bd4f6-011e-4658-9a7c-059ec2f4a78b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Chris Boshuizen, Mr. Shatner, Audrey Powers and Glen de Vries, the crew of the New Shepard’s second flight.",
+                    "copyright": "Blue Origin, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lAxKVR"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Lifestyles of the Rich and Gullible: Theranos and Ozy Edition",
+            "abstract": "Average investors were not able to get in on the last decade’s start-up boom in private markets. Once that seemed unfair. Now it looks lucky.",
+            "url": "https://www.nytimes.com/2021/10/09/business/ozy-theranos-startup-lawsuits.html",
+            "uri": "nyt://article/5a693aea-dec0-56d9-8689-ab9420233fb3",
+            "byline": "By Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-10-11T12:00:07-04:00",
+            "created_date": "2021-10-09T05:00:20-04:00",
+            "published_date": "2021-10-09T05:00:20-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "Venture Capital",
+                "Frauds and Swindling",
+                "Start-ups",
+                "High Net Worth Individuals",
+                "Securities and Commodities Violations"
+            ],
+            "org_facet": [
+                "Ozy Media Inc",
+                "Theranos Inc",
+                "WeWork Companies Inc",
+                "uBiome Inc",
+                "HeadSpin Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/09Grifters-01/09Grifters-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth A. Holmes, the former Theranos chief executive, and her partner, Billy Evans, leaving federal court after the first day of her fraud trial in San Jose, Calif., last month.",
+                    "copyright": "Mike Kai Chen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/09Grifters-01/09Grifters-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth A. Holmes, the former Theranos chief executive, and her partner, Billy Evans, leaving federal court after the first day of her fraud trial in San Jose, Calif., last month.",
+                    "copyright": "Mike Kai Chen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/09Grifters-01/09Grifters-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth A. Holmes, the former Theranos chief executive, and her partner, Billy Evans, leaving federal court after the first day of her fraud trial in San Jose, Calif., last month.",
+                    "copyright": "Mike Kai Chen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/09Grifters-01/09Grifters-01-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth A. Holmes, the former Theranos chief executive, and her partner, Billy Evans, leaving federal court after the first day of her fraud trial in San Jose, Calif., last month.",
+                    "copyright": "Mike Kai Chen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/09Grifters-01/09Grifters-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth A. Holmes, the former Theranos chief executive, and her partner, Billy Evans, leaving federal court after the first day of her fraud trial in San Jose, Calif., last month.",
+                    "copyright": "Mike Kai Chen for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oJ5hPB"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Lawmakers See Path to Rein In Tech, but It Isn’t Smooth",
+            "abstract": "If what faces Big Tech is anything like what happened to Big Tobacco, the road ahead is likely to be a yearslong battle over proposed rules and regulations.",
+            "url": "https://www.nytimes.com/2021/10/09/technology/facebook-big-tobacco-regulation.html",
+            "uri": "nyt://article/69fdd5f3-795d-5538-b7b9-b071b57922e9",
+            "byline": "By Cecilia Kang",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T13:36:43-04:00",
+            "created_date": "2021-10-09T05:00:18-04:00",
+            "published_date": "2021-10-09T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet",
+                "Antitrust Laws and Competition Issues",
+                "Law and Legislation",
+                "Regulation and Deregulation of Industry",
+                "Smoking and Tobacco",
+                "Lobbying and Lobbyists"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Google Inc",
+                "Senate",
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Blumenthal, Richard"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/10facebook-dc-print1/merlin_195854901_0b87d1eb-8cc1-4857-b332-e921de2f228d-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1431,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Richard Blumenthal speaking to the press after the testimony of Frances Haugen, who exposed Facebook’s own research on the negative impacts of its platforms.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/10facebook-dc-print1/merlin_195854901_0b87d1eb-8cc1-4857-b332-e921de2f228d-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Richard Blumenthal speaking to the press after the testimony of Frances Haugen, who exposed Facebook’s own research on the negative impacts of its platforms.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/10facebook-dc-print1/merlin_195854901_0b87d1eb-8cc1-4857-b332-e921de2f228d-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Richard Blumenthal speaking to the press after the testimony of Frances Haugen, who exposed Facebook’s own research on the negative impacts of its platforms.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/10facebook-dc-print1/merlin_195854901_0b87d1eb-8cc1-4857-b332-e921de2f228d-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Richard Blumenthal speaking to the press after the testimony of Frances Haugen, who exposed Facebook’s own research on the negative impacts of its platforms.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/10facebook-dc-print1/merlin_195854901_0b87d1eb-8cc1-4857-b332-e921de2f228d-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 133,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Richard Blumenthal speaking to the press after the testimony of Frances Haugen, who exposed Facebook’s own research on the negative impacts of its platforms.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YwhmN4"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Apple Appeals App Store Ruling in Fight With Epic Games",
+            "abstract": "At the heart of the legal battle is the power Apple wields over its lucrative App Store.",
+            "url": "https://www.nytimes.com/2021/10/08/technology/apple-epic-games-lawsuit.html",
+            "uri": "nyt://article/55d111ac-72f3-58a1-9fc8-a41075eedafe",
+            "byline": "By Kellen Browning",
+            "item_type": "Article",
+            "updated_date": "2021-10-10T13:49:17-04:00",
+            "created_date": "2021-10-08T19:00:07-04:00",
+            "published_date": "2021-10-08T19:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Applications",
+                "Computer and Video Games",
+                "Decisions and Verdicts",
+                "Antitrust Laws and Competition Issues",
+                "Mobile Commerce and Payments"
+            ],
+            "org_facet": [
+                "Epic Games",
+                "Apple Inc"
+            ],
+            "per_facet": [
+                "Gonzalez Rogers, Yvonne (1965- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/08/business/08economy-briefing-apple/merlin_158116065_08095292-b002-418e-bec4-e4cb223de4f2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1412,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tim Sweeney, the chief executive of Epic Games, has led a fight by developers against Apple’s App Store rules.",
+                    "copyright": "Travis Dove for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/08/business/08economy-briefing-apple/08economy-briefing-apple-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tim Sweeney, the chief executive of Epic Games, has led a fight by developers against Apple’s App Store rules.",
+                    "copyright": "Travis Dove for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/08/business/08economy-briefing-apple/08economy-briefing-apple-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tim Sweeney, the chief executive of Epic Games, has led a fight by developers against Apple’s App Store rules.",
+                    "copyright": "Travis Dove for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/08/business/08economy-briefing-apple/08economy-briefing-apple-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tim Sweeney, the chief executive of Epic Games, has led a fight by developers against Apple’s App Store rules.",
+                    "copyright": "Travis Dove for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/08/business/08economy-briefing-apple/merlin_158116065_08095292-b002-418e-bec4-e4cb223de4f2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 131,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tim Sweeney, the chief executive of Epic Games, has led a fight by developers against Apple’s App Store rules.",
+                    "copyright": "Travis Dove for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YCLbvF"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Facebook and its apps suffer another outage.",
+            "abstract": "All of Facebook’s main products — Instagram, WhatsApp, Messenger and the “big blue app” of Facebook — were inaccessible to at least some users around 3 p.m. Eastern time.",
+            "url": "https://www.nytimes.com/2021/10/08/technology/facebook-whatsapp-instagram-down.html",
+            "uri": "nyt://article/510d866c-dfdf-5976-9113-190dfb76d9fb",
+            "byline": "By Mike Isaac",
+            "item_type": "Article",
+            "updated_date": "2021-10-09T10:05:03-04:00",
+            "created_date": "2021-10-08T15:49:34-04:00",
+            "published_date": "2021-10-08T15:49:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet",
+                "Mobile Applications"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Instagram Inc",
+                "WhatsApp Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/world/07-daily-newsletter-facebook/07-daily-newsletter-facebook-superJumbo-v3.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook’s headquarters in Menlo Park, Calif. The outage on Monday was a planetary-scale demonstration of how essential the company’s services have become to daily life.",
+                    "copyright": "Kelsey McClellan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/world/07-daily-newsletter-facebook/05facebook-outage-reaction3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook’s headquarters in Menlo Park, Calif. The outage on Monday was a planetary-scale demonstration of how essential the company’s services have become to daily life.",
+                    "copyright": "Kelsey McClellan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/world/07-daily-newsletter-facebook/05facebook-outage-reaction3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook’s headquarters in Menlo Park, Calif. The outage on Monday was a planetary-scale demonstration of how essential the company’s services have become to daily life.",
+                    "copyright": "Kelsey McClellan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/world/07-daily-newsletter-facebook/07-daily-newsletter-facebook-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook’s headquarters in Menlo Park, Calif. The outage on Monday was a planetary-scale demonstration of how essential the company’s services have become to daily life.",
+                    "copyright": "Kelsey McClellan for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/world/07-daily-newsletter-facebook/07-daily-newsletter-facebook-articleInline-v3.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Facebook’s headquarters in Menlo Park, Calif. The outage on Monday was a planetary-scale demonstration of how essential the company’s services have become to daily life.",
+                    "copyright": "Kelsey McClellan for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3BsiD67"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "China’s Tech Antitrust Campaign Snares Meituan, a Food-Delivery Giant",
+            "abstract": "The $530 million fine is Beijing’s second major penalty this year against an internet company accused of monopolistic practices.",
+            "url": "https://www.nytimes.com/2021/10/08/technology/china-meituan-antitrust-fine.html",
+            "uri": "nyt://article/e8455803-dc21-5b43-8fa6-1f53820b473d",
+            "byline": "By Raymond Zhong",
+            "item_type": "Article",
+            "updated_date": "2021-10-08T22:02:47-04:00",
+            "created_date": "2021-10-08T05:09:46-04:00",
+            "published_date": "2021-10-08T05:09:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Antitrust Laws and Competition Issues",
+                "Fines (Penalties)",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Meituan-Dianping",
+                "Alibaba Group Holding Ltd",
+                "Didi Chuxing"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/09/world/00china-tech-print/merlin_187741959_6e196bf9-acd6-4792-808a-5c08d5654cfd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to being fined, Meituan was ordered to refund more than 1.6 million restaurants and other merchants for deposits they paid as part of exclusivity agreements with the platform. ",
+                    "copyright": "Greg Baker/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/09/world/00china-tech-print/00china-techHFO1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to being fined, Meituan was ordered to refund more than 1.6 million restaurants and other merchants for deposits they paid as part of exclusivity agreements with the platform. ",
+                    "copyright": "Greg Baker/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/09/world/00china-tech-print/00china-techHFO1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to being fined, Meituan was ordered to refund more than 1.6 million restaurants and other merchants for deposits they paid as part of exclusivity agreements with the platform. ",
+                    "copyright": "Greg Baker/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/09/world/00china-tech-print/merlin_187741959_6e196bf9-acd6-4792-808a-5c08d5654cfd-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to being fined, Meituan was ordered to refund more than 1.6 million restaurants and other merchants for deposits they paid as part of exclusivity agreements with the platform. ",
+                    "copyright": "Greg Baker/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/09/world/00china-tech-print/merlin_187741959_6e196bf9-acd6-4792-808a-5c08d5654cfd-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to being fined, Meituan was ordered to refund more than 1.6 million restaurants and other merchants for deposits they paid as part of exclusivity agreements with the platform. ",
+                    "copyright": "Greg Baker/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mDalCa"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Google bans ads on content, including YouTube videos, with false claims about climate change.",
+            "abstract": "“We’ve heard directly from a growing number of our advertising and publisher partners who have expressed concerns about ads that run alongside or promote inaccurate claims about climate change,” the company said.",
+            "url": "https://www.nytimes.com/2021/10/07/technology/google-youtube-ads-climate-change-misinformation.html",
+            "uri": "nyt://article/f50d0b56-857a-5b55-8988-b7ae0806f5b6",
+            "byline": "By Daisuke Wakabayashi and Tiffany Hsu",
+            "item_type": "Article",
+            "updated_date": "2021-10-07T18:58:54-04:00",
+            "created_date": "2021-10-07T16:53:57-04:00",
+            "published_date": "2021-10-07T16:53:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Online Advertising",
+                "Advertising and Marketing",
+                "Computers and the Internet",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [
+                "YouTube.com",
+                "Google Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/07distortions-climate/merlin_195903546_d3e5c0bd-2749-41a8-b9a8-c7699cdf0c3f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1333,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aircraft drops fire retardant on a ridge during the Walbridge fire in Healdsburg, Calif., last year. Google said it will no longer allow ads that promote climate change denial.",
+                    "copyright": "Josh Edelson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/07distortions-climate/07distortions-climate-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aircraft drops fire retardant on a ridge during the Walbridge fire in Healdsburg, Calif., last year. Google said it will no longer allow ads that promote climate change denial.",
+                    "copyright": "Josh Edelson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/07distortions-climate/07distortions-climate-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aircraft drops fire retardant on a ridge during the Walbridge fire in Healdsburg, Calif., last year. Google said it will no longer allow ads that promote climate change denial.",
+                    "copyright": "Josh Edelson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/07distortions-climate/07distortions-climate-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aircraft drops fire retardant on a ridge during the Walbridge fire in Healdsburg, Calif., last year. Google said it will no longer allow ads that promote climate change denial.",
+                    "copyright": "Josh Edelson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/07distortions-climate/merlin_195903546_d3e5c0bd-2749-41a8-b9a8-c7699cdf0c3f-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 124,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An aircraft drops fire retardant on a ridge during the Walbridge fire in Healdsburg, Calif., last year. Google said it will no longer allow ads that promote climate change denial.",
+                    "copyright": "Josh Edelson/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uP77PY"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "We’re Smarter About Facebook Now",
+            "abstract": "With each Facebook crisis, we become savvier about the influence of tech companies on our lives.",
+            "url": "https://www.nytimes.com/2021/10/07/technology/facebook-scandals.html",
+            "uri": "nyt://article/c8bc7142-902c-54fb-8eec-3730222ebeb4",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-10-09T00:00:55-04:00",
+            "created_date": "2021-10-07T13:28:47-04:00",
+            "published_date": "2021-10-07T13:28:47-04:00",
+            "material_type_facet": "",
+            "kicker": "the on tech newsletter",
+            "des_facet": [
+                "internal-sub-only",
+                "Social Media",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Haugen, Frances"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/07OnTech-Facebook-Still/07OnTech-Facebook-Still-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ariel Davis"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/07OnTech-Facebook-Still/07OnTech-Facebook-Still-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ariel Davis"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/07OnTech-Facebook-Still/07OnTech-Facebook-Still-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ariel Davis"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/07OnTech-Facebook-Still/07OnTech-Facebook-Still-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ariel Davis"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/10/business/07OnTech-Facebook-Still/07OnTech-Facebook-Still-articleInline.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ariel Davis"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mB8q12"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Key takeaways from the fifth week of the Elizabeth Holmes trial.",
+            "abstract": "Jurors’ eyes glazed over at detailed technical discussions as Theranos’s former lab director described repeated instances of irregular and inaccurate results.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/elizabeth-holmes-theranos-trial.html",
+            "uri": "nyt://article/fdc0342e-37ba-517d-8c4e-df5b517a88cb",
+            "byline": "By Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-10-12T09:03:05-04:00",
+            "created_date": "2021-10-06T18:32:39-04:00",
+            "published_date": "2021-10-06T18:32:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Tests (Medical)",
+                "Supermarkets and Grocery Stores",
+                "Frauds and Swindling",
+                "Buddhism",
+                "Computers and the Internet",
+                "Start-ups"
+            ],
+            "org_facet": [
+                "Safeway Inc",
+                "Theranos Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06holmes/merlin_194882562_749edd35-40cb-47c2-87a6-e957b2a093e7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1450,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes and her mother, Noel Holmes, last month. The younger Holmes is fighting 12 counts of fraud.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06holmes/06holmes-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes and her mother, Noel Holmes, last month. The younger Holmes is fighting 12 counts of fraud.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06holmes/06holmes-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes and her mother, Noel Holmes, last month. The younger Holmes is fighting 12 counts of fraud.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06holmes/06holmes-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes and her mother, Noel Holmes, last month. The younger Holmes is fighting 12 counts of fraud.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06holmes/merlin_194882562_749edd35-40cb-47c2-87a6-e957b2a093e7-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 134,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes and her mother, Noel Holmes, last month. The younger Holmes is fighting 12 counts of fraud.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oG5X87"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "A ‘potentially disastrous’ data breach hits Twitch, the livestreaming site.",
+            "abstract": "Included in the breach was a list that purportedly showed how much money each of the platform’s streamers had earned in the past two years.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/twitch-data-breach.html",
+            "uri": "nyt://article/0e203742-b49f-544d-b4bc-931282f3cd33",
+            "byline": "By Kellen Browning",
+            "item_type": "Article",
+            "updated_date": "2021-10-07T15:12:24-04:00",
+            "created_date": "2021-10-06T13:29:21-04:00",
+            "published_date": "2021-10-06T13:29:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Computer Security",
+                "Video Recordings, Downloads and Streaming",
+                "Social Media"
+            ],
+            "org_facet": [
+                "4chan",
+                "Twitch Interactive Inc",
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/3BdeYZX"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "How to Fix Facebook",
+            "abstract": "This is a pivotal moment in Facebook’s history. Here are suggestions for how to improve the company.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/facebook-fixes.html",
+            "uri": "nyt://article/0eb21efa-bfe9-5b92-aaa3-c88c061f4dc5",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-10-09T10:04:55-04:00",
+            "created_date": "2021-10-06T13:22:44-04:00",
+            "published_date": "2021-10-06T13:22:44-04:00",
+            "material_type_facet": "",
+            "kicker": "the on tech newsletter",
+            "des_facet": [
+                "internal-sub-only",
+                "Social Media",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Haugen, Frances"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06OnTech-Facebook/06OnTech-Facebook-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06OnTech-Facebook/06OnTech-Facebook-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06OnTech-Facebook/06OnTech-Facebook-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06OnTech-Facebook/06OnTech-Facebook-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06OnTech-Facebook/06OnTech-Facebook-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Burton Booz"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lgGhNv"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Robert Schiffmann, Inventive Guru of the Microwave, Dies at 86",
+            "abstract": "As a scientist he saw the potential of microwave ovens when he observed one heating up a sandwich in the 1960s. Microwaveable oatmeal, among other advances, was in his future.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/robert-schiffmann-dead.html",
+            "uri": "nyt://article/b6a2131d-aeb8-5b93-a8f8-492434466721",
+            "byline": "By Richard Sandomir",
+            "item_type": "Article",
+            "updated_date": "2021-10-06T21:43:17-04:00",
+            "created_date": "2021-10-06T13:10:56-04:00",
+            "published_date": "2021-10-06T13:10:56-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Microwave Ovens",
+                "Inventions and Patents",
+                "Cooking and Cookbooks",
+                "Heat and Heat Waves"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+                "Schiffmann, Robert (1935-2021)"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/07/obituaries/04schiffmann-print1/04schiffmann-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1377,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scientist Robert Schiffmann in an undated photo. He developed products (like microwaveable caramel popcorn) and processes that advanced microwave cooking. ",
+                    "copyright": " Evelyn Floret/The LIFE Picture Collection, via Shutterstock "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/obituaries/04schiffmann-print1/04schiffmann-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scientist Robert Schiffmann in an undated photo. He developed products (like microwaveable caramel popcorn) and processes that advanced microwave cooking. ",
+                    "copyright": " Evelyn Floret/The LIFE Picture Collection, via Shutterstock "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/obituaries/04schiffmann-print1/04schiffmann-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scientist Robert Schiffmann in an undated photo. He developed products (like microwaveable caramel popcorn) and processes that advanced microwave cooking. ",
+                    "copyright": " Evelyn Floret/The LIFE Picture Collection, via Shutterstock "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/obituaries/04schiffmann-print1/04schiffmann-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scientist Robert Schiffmann in an undated photo. He developed products (like microwaveable caramel popcorn) and processes that advanced microwave cooking. ",
+                    "copyright": " Evelyn Floret/The LIFE Picture Collection, via Shutterstock "
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/obituaries/04schiffmann-print1/04schiffmann-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 128,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scientist Robert Schiffmann in an undated photo. He developed products (like microwaveable caramel popcorn) and processes that advanced microwave cooking. ",
+                    "copyright": " Evelyn Floret/The LIFE Picture Collection, via Shutterstock "
+                }
+            ],
+            "short_url": "https://nyti.ms/3afnHyN"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Takeaways From Tuesday’s Facebook Hearing",
+            "abstract": "What we learned from Facebook whistleblower Frances Haugen’s Congressional testimony",
+            "url": "https://www.nytimes.com/interactive/2021/10/06/technology/facebook-hearing-frances-haugen-takeaways.html",
+            "uri": "nyt://interactive/e29becf4-559a-5d5c-839e-bc4468d85339",
+            "byline": "By Sheera Frenkel, Cecilia Kang, Mike Isaac and Kevin Roose",
+            "item_type": "Interactive",
+            "updated_date": "2021-10-06T14:13:37-04:00",
+            "created_date": "2021-10-06T10:52:42-04:00",
+            "published_date": "2021-10-06T10:52:42-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Whistle-Blowers",
+                "Social Media"
+            ],
+            "org_facet": [
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Haugen, Frances"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/autossell/FB-Burst-Slide-0/FB-Burst-Slide-0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/autossell/FB-Burst-Slide-0/FB-Burst-Slide-0-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/autossell/FB-Burst-Slide-0/FB-Burst-Slide-0-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/autossell/FB-Burst-Slide-0/FB-Burst-Slide-0-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/autossell/FB-Burst-Slide-0/FB-Burst-Slide-0-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3acAlPb"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Facebook Hearing Strengthens Calls for Regulation in Europe",
+            "abstract": "A whistle-blower who told Congress about the tech giant’s inner workings has spoken with top policymakers in Brussels, Britain and France about the need for tougher oversight.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/facebook-european-union-regulation.html",
+            "uri": "nyt://article/9f10a9b9-0be1-50e9-8b67-560c94b8622b",
+            "byline": "By Adam Satariano",
+            "item_type": "Article",
+            "updated_date": "2021-10-07T16:21:56-04:00",
+            "created_date": "2021-10-06T09:38:57-04:00",
+            "published_date": "2021-10-06T09:38:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Antitrust Laws and Competition Issues",
+                "Regulation and Deregulation of Industry",
+                "Whistle-Blowers",
+                "Social Media",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "European Union"
+            ],
+            "per_facet": [
+                "Haugen, Frances"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06econ-brf-fb-eu/merlin_195853953_98aea148-1443-4d4b-89e3-c19a3689f193-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1386,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen provided details about Facebook’s research on the negative effects of its platforms on society in her testimony to Congress.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06econ-brf-fb-eu/06econ-brf-fb-eu-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen provided details about Facebook’s research on the negative effects of its platforms on society in her testimony to Congress.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06econ-brf-fb-eu/06econ-brf-fb-eu-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen provided details about Facebook’s research on the negative effects of its platforms on society in her testimony to Congress.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06econ-brf-fb-eu/merlin_195853953_98aea148-1443-4d4b-89e3-c19a3689f193-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen provided details about Facebook’s research on the negative effects of its platforms on society in her testimony to Congress.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/business/06econ-brf-fb-eu/merlin_195853953_98aea148-1443-4d4b-89e3-c19a3689f193-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 129,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen provided details about Facebook’s research on the negative effects of its platforms on society in her testimony to Congress.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Fnxv8b"
+        },
+        {
+            "section": "technology",
+            "subsection": "personaltech",
+            "title": "It’s Time to Stop Paying for a VPN",
+            "abstract": "Many virtual private network services that were meant to protect your web browsing can no longer be trusted. Here are other ways.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/personaltech/are-vpns-worth-it.html",
+            "uri": "nyt://article/878f00bc-9bc3-579e-bdb6-d9edfc889b32",
+            "byline": "By Brian X. Chen",
+            "item_type": "Article",
+            "updated_date": "2021-10-07T13:35:08-04:00",
+            "created_date": "2021-10-06T05:00:26-04:00",
+            "published_date": "2021-10-06T05:00:26-04:00",
+            "material_type_facet": "",
+            "kicker": "Tech Fix",
+            "des_facet": [
+                "Computer Security",
+                "Computers and the Internet",
+                "Wireless Communications",
+                "Content Type: Service",
+                "Privacy"
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/06techfix/06techfix-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 577,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/06techfix/06techfix-thumbStandard.gif",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/06techfix/06techfix-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/06techfix/06techfix-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/07/business/06techfix/06techfix-articleInline.gif",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                }
+            ],
+            "short_url": "https://nyti.ms/2WJCy1m"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "A Star Corporate Lawyer Now Set to Take On Corporate America",
+            "abstract": "How Jonathan Kanter, the Biden administration’s choice to be the Justice Department’s antitrust chief, became a progressive foe of Big Tech.",
+            "url": "https://www.nytimes.com/2021/10/06/technology/biden-jonathan-kanter-big-tech.html",
+            "uri": "nyt://article/56fbbb43-59eb-57e2-a031-29998f2bb654",
+            "byline": "By Steve Lohr and Cecilia Kang",
+            "item_type": "Article",
+            "updated_date": "2021-10-06T12:51:42-04:00",
+            "created_date": "2021-10-06T03:00:08-04:00",
+            "published_date": "2021-10-06T03:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Antitrust Laws and Competition Issues",
+                "Computers and the Internet",
+                "United States Politics and Government",
+                "Appointments and Executive Changes",
+                "Content Type: Personal Profile",
+                "Legal Profession",
+                "Conflicts of Interest"
+            ],
+            "org_facet": [
+                "Justice Department",
+                "Google Inc",
+                "Microsoft Corp"
+            ],
+            "per_facet": [
+                "Kanter, Jonathan S",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/06/multimedia/00JPkanter2-print/merlin_195648159_6d52e766-5118-4e56-89fa-d929a8fbcfc5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1790,
+                    "width": 1600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jonathan Kanter has said that his work for Microsoft and Yelp, among others, helped him see the dangers of economic power.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/multimedia/00JPkanter2-print/00kanter-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jonathan Kanter has said that his work for Microsoft and Yelp, among others, helped him see the dangers of economic power.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/multimedia/00JPkanter2-print/00kanter-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jonathan Kanter has said that his work for Microsoft and Yelp, among others, helped him see the dangers of economic power.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/multimedia/00JPkanter2-print/00kanter-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jonathan Kanter has said that his work for Microsoft and Yelp, among others, helped him see the dangers of economic power.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/06/multimedia/00JPkanter2-print/merlin_195648159_6d52e766-5118-4e56-89fa-d929a8fbcfc5-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 213,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jonathan Kanter has said that his work for Microsoft and Yelp, among others, helped him see the dangers of economic power.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2WM2t8P"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Facebook Whistle-Blower Urges Lawmakers to Regulate the Company",
+            "abstract": "Frances Haugen, who left the social network in May and leaked internal documents, gave senators rare insight into its inner workings.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/facebook-whistle-blower-hearing.html",
+            "uri": "nyt://article/80fdfc45-0bbb-5f89-862c-70b8ea59f382",
+            "byline": "By Cecilia Kang",
+            "item_type": "Article",
+            "updated_date": "2021-10-06T20:58:41-04:00",
+            "created_date": "2021-10-05T16:53:19-04:00",
+            "published_date": "2021-10-05T16:53:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Whistle-Blowers",
+                "Law and Legislation",
+                "Regulation and Deregulation of Industry",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Senate"
+            ],
+            "per_facet": [
+                "Haugen, Frances",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook1/merlin_195854442_f061644c-467c-4a1b-9919-9008704756c5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1385,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, who exposed Facebook’s research on the negative effects of its platforms, told senators that the company’s top executives “won’t make the necessary changes.”",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook1/05facebook1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, who exposed Facebook’s research on the negative effects of its platforms, told senators that the company’s top executives “won’t make the necessary changes.”",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook1/05facebook1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, who exposed Facebook’s research on the negative effects of its platforms, told senators that the company’s top executives “won’t make the necessary changes.”",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook1/05facebook1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, who exposed Facebook’s research on the negative effects of its platforms, told senators that the company’s top executives “won’t make the necessary changes.”",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook1/merlin_195854442_f061644c-467c-4a1b-9919-9008704756c5-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 129,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frances Haugen, who exposed Facebook’s research on the negative effects of its platforms, told senators that the company’s top executives “won’t make the necessary changes.”",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oCC1dc"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Facebook says its outage was caused by a cascade of errors.",
+            "abstract": "For more than five hours, the company’s family of apps, including Instagram and WhatsApp, were unavailable to the billions who use them.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/facebook-outage-cause.html",
+            "uri": "nyt://article/6204406f-c151-5651-a81d-fd1398c686f5",
+            "byline": "By Kate Conger",
+            "item_type": "Article",
+            "updated_date": "2021-10-08T16:19:42-04:00",
+            "created_date": "2021-10-05T16:32:03-04:00",
+            "published_date": "2021-10-05T16:32:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computer Network Outages",
+                "Computers and the Internet",
+                "Social Media",
+                "Data Centers"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Instagram Inc",
+                "WhatsApp Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-outage/merlin_165501552_c55f5d46-d36f-4505-9388-501d3571a5c1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-outage/merlin_165501552_c55f5d46-d36f-4505-9388-501d3571a5c1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-outage/merlin_165501552_c55f5d46-d36f-4505-9388-501d3571a5c1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-outage/merlin_165501552_c55f5d46-d36f-4505-9388-501d3571a5c1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-outage/merlin_165501552_c55f5d46-d36f-4505-9388-501d3571a5c1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jason Henry for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uHEqUS"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Key takeaways from Facebook’s whistle-blower hearing.",
+            "abstract": "Lawmakers in the hearing explored the role that Facebook’s algorithms play in amplifying problematic content.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/what-happened-at-facebook-whistleblower-hearing.html",
+            "uri": "nyt://article/9448d48d-cb42-5271-97ed-b6174bdfbd25",
+            "byline": "By Sheera Frenkel",
+            "item_type": "Article",
+            "updated_date": "2021-10-10T15:03:56-04:00",
+            "created_date": "2021-10-05T14:03:09-04:00",
+            "published_date": "2021-10-05T14:03:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Instagram Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-takeaways-sub/merlin_195847143_82357cbf-b54b-40b0-b34c-141137b1c7d3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The former Facebook employee Frances Haugen suggested raising the minimum age for people using social media to 17 from 13.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-takeaways-sub/05facebook-whistleblower-live-takeaways-sub-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The former Facebook employee Frances Haugen suggested raising the minimum age for people using social media to 17 from 13.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-takeaways-sub/05facebook-whistleblower-live-takeaways-sub-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The former Facebook employee Frances Haugen suggested raising the minimum age for people using social media to 17 from 13.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-takeaways-sub/merlin_195847143_82357cbf-b54b-40b0-b34c-141137b1c7d3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The former Facebook employee Frances Haugen suggested raising the minimum age for people using social media to 17 from 13.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-takeaways-sub/merlin_195847143_82357cbf-b54b-40b0-b34c-141137b1c7d3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The former Facebook employee Frances Haugen suggested raising the minimum age for people using social media to 17 from 13.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3D5WHOO"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Engagement ranking boost, M.S.I., and more.",
+            "abstract": "Here is a guide to some jargon used in the Facebook whistle-blower hearing.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/engagement-ranking-boost-msi-facebook.html",
+            "uri": "nyt://article/179666b2-029b-53fa-9558-defa092638c4",
+            "byline": "By Ryan Mac",
+            "item_type": "Article",
+            "updated_date": "2021-10-05T13:49:29-04:00",
+            "created_date": "2021-10-05T13:29:08-04:00",
+            "published_date": "2021-10-05T13:29:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Whistle-Blowers"
+            ],
+            "org_facet": [
+                "Instagram Inc",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-msi-engagement-boost-sub/merlin_193097148_9d061a39-041a-4ad8-b2ee-a89437aad38e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friends exchanging Instagram QR codes.",
+                    "copyright": "Jasmine Clarke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-msi-engagement-boost-sub/merlin_193097148_9d061a39-041a-4ad8-b2ee-a89437aad38e-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friends exchanging Instagram QR codes.",
+                    "copyright": "Jasmine Clarke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-msi-engagement-boost-sub/merlin_193097148_9d061a39-041a-4ad8-b2ee-a89437aad38e-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friends exchanging Instagram QR codes.",
+                    "copyright": "Jasmine Clarke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-msi-engagement-boost-sub/merlin_193097148_9d061a39-041a-4ad8-b2ee-a89437aad38e-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friends exchanging Instagram QR codes.",
+                    "copyright": "Jasmine Clarke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-msi-engagement-boost-sub/merlin_193097148_9d061a39-041a-4ad8-b2ee-a89437aad38e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 143,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Friends exchanging Instagram QR codes.",
+                    "copyright": "Jasmine Clarke for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2ZZ9W5D"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "YouTube’s Ban on Misinformation",
+            "abstract": "And why it isn’t about us.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/youtube-misinformation.html",
+            "uri": "nyt://article/89fc63e6-2fdc-5fde-b018-92e5683e3435",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-10-10T22:04:20-04:00",
+            "created_date": "2021-10-05T13:26:18-04:00",
+            "published_date": "2021-10-05T13:26:18-04:00",
+            "material_type_facet": "",
+            "kicker": "the on tech newsletter",
+            "des_facet": [
+                "internal-sub-only",
+                "Social Media",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "YouTube.com",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05OnTech-YouTube-Misinformation/05OnTech-YouTube-Misinformation-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dae In Chung"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05OnTech-YouTube-Misinformation/05OnTech-YouTube-Misinformation-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dae In Chung"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05OnTech-YouTube-Misinformation/05OnTech-YouTube-Misinformation-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dae In Chung"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05OnTech-YouTube-Misinformation/05OnTech-YouTube-Misinformation-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dae In Chung"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05OnTech-YouTube-Misinformation/05OnTech-YouTube-Misinformation-articleInline.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dae In Chung"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FuORjV"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Parents sound off on testimony about the harms of Facebook and Instagram.",
+            "abstract": "“My daughter was damaged by Instagram,” one user tweeted.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/parents-sound-off-on-testimony-about-the-harms-of-facebook-and-instagram.html",
+            "uri": "nyt://article/817589fb-aa49-55d0-a6dc-66a2ed379fb1",
+            "byline": "By Kellen Browning",
+            "item_type": "Article",
+            "updated_date": "2021-10-05T15:54:16-04:00",
+            "created_date": "2021-10-05T13:11:09-04:00",
+            "published_date": "2021-10-05T13:11:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Parenting",
+                "Children and Childhood"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Instagram Inc"
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-parents/merlin_184232202_b8eb40cf-f730-4c50-934d-3500c9f8cacd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some parents questioned their choices to allow their young children to have social media accounts. Others blamed the platforms for harmful content.",
+                    "copyright": "Matthew Abbott for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-parents/05facebook-whistleblower-live-parents-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some parents questioned their choices to allow their young children to have social media accounts. Others blamed the platforms for harmful content.",
+                    "copyright": "Matthew Abbott for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-parents/05facebook-whistleblower-live-parents-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some parents questioned their choices to allow their young children to have social media accounts. Others blamed the platforms for harmful content.",
+                    "copyright": "Matthew Abbott for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-parents/merlin_184232202_b8eb40cf-f730-4c50-934d-3500c9f8cacd-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some parents questioned their choices to allow their young children to have social media accounts. Others blamed the platforms for harmful content.",
+                    "copyright": "Matthew Abbott for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05facebook-whistleblower-live-parents/merlin_184232202_b8eb40cf-f730-4c50-934d-3500c9f8cacd-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some parents questioned their choices to allow their young children to have social media accounts. Others blamed the platforms for harmful content.",
+                    "copyright": "Matthew Abbott for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Fmuu8c"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "A highlight: Frances Haugen’s inside knowledge makes this hearing different.",
+            "abstract": "Ultimately, Facebook’s ownership structure was also an issue, she said.",
+            "url": "https://www.nytimes.com/2021/10/05/technology/facebook-frances-haugen-testimony.html",
+            "uri": "nyt://article/701b43d1-d5fc-55a5-be9c-20161228fd23",
+            "byline": "By Sheera Frenkel",
+            "item_type": "Article",
+            "updated_date": "2021-10-05T16:22:58-04:00",
+            "created_date": "2021-10-05T11:21:59-04:00",
+            "published_date": "2021-10-05T11:21:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+
+            ],
+            "org_facet": [
+
+            ],
+            "per_facet": [
+
+            ],
+            "geo_facet": [
+
+            ],
+            "multimedia": [{
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05fb-live8/merlin_195843156_e0779bca-7a62-4f01-9acb-a13a72911969-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Facebook employee Frances Haugen testifying on Tuesday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05fb-live8/05fb-live8-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Facebook employee Frances Haugen testifying on Tuesday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05fb-live8/05fb-live8-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Facebook employee Frances Haugen testifying on Tuesday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05fb-live8/merlin_195843156_e0779bca-7a62-4f01-9acb-a13a72911969-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Facebook employee Frances Haugen testifying on Tuesday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/business/05fb-live8/merlin_195843156_e0779bca-7a62-4f01-9acb-a13a72911969-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Facebook employee Frances Haugen testifying on Tuesday.",
+                    "copyright": "Drew Angerer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2WNWEru"
+        }
+    ]
+}
