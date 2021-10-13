@@ -71,6 +71,7 @@ async function getTopArticles() {
         document.querySelector(`.top${i}Art .article_author`).innerHTML = `${data[i].byline}`;
         document.querySelector(`.top${i}Art .article_date`).innerHTML = `${date.toUTCString()}`;
         document.querySelector(`.top${i}Art .article_title`).innerHTML = `${data[i].title}`;
+        document.querySelector(`.top${i}Art .article_abstract`).innerHTML = `${data[i].abstract}`;
     }
 }
 
